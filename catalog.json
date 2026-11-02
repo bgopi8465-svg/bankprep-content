@@ -41,6 +41,26 @@
       "filePath": "/mock-papers/banking/sbi-po/Sbi-Po-Prelims-2023-01-Nov-Shift-1.json",
       "isFeatured": false,
       "badge": "SBI PO 2023"
+    },
+    {
+      "id": "sbi-po-prelims-2022-18-dec-shift-1",
+      "title": "SBI PO Prelims 2022 - 18 December Shift 1",
+      "category": "banking",
+      "year": 2022,
+      "stage": "Preliminary Examination",
+      "paperType": "Previous Year Paper",
+      "totalQuestions": 100,
+      "durationMinutes": 60,
+      "timerType": "sectional",
+      "sectionsCount": 3,
+      "sectionNames": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "filePath": "/mock-papers/banking/sbi-po/Sbi-Po-Prelims-2022-18-Dec-Shift-1.json",
+      "isFeatured": false,
+      "badge": "SBI PO 2022"
     }
   ]
 }
