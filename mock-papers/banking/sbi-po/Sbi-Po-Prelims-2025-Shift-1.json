@@ -1,0 +1,3590 @@
+{
+  "schemaVersion": "1.0.0",
+  "exam": {
+    "id": "sbi-po-prelims-2025-shift-1",
+    "name": "SBI PO Prelims",
+    "code": "SBI-PO-PRELIMS",
+    "year": 2025,
+    "shift": 1,
+    "date": "2025-08-04",
+    "slot": "Shift 1",
+    "totalQuestions": 100,
+    "totalMarks": 100,
+    "source": "Memory Based PDF (Aug 04, 2025) Shift 1"
+  },
+  "configuration": {
+    "totalDurationMinutes": 60,
+    "sectionalTiming": true,
+    "sections": [
+      {
+        "id": "english",
+        "name": "English Language",
+        "order": 1,
+        "questionRange": [
+          1,
+          40
+        ],
+        "totalQuestions": 40,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      },
+      {
+        "id": "quant",
+        "name": "Quantitative Aptitude",
+        "order": 2,
+        "questionRange": [
+          41,
+          70
+        ],
+        "totalQuestions": 30,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      },
+      {
+        "id": "reasoning",
+        "name": "Reasoning Ability",
+        "order": 3,
+        "questionRange": [
+          71,
+          100
+        ],
+        "totalQuestions": 30,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      }
+    ],
+    "markingScheme": {
+      "correct": 1,
+      "incorrect": -0.25,
+      "unattempted": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "grp_cloze_1_6",
+      "type": "clozeTest",
+      "title": "Cloze Test - Printing Press",
+      "section": "english",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6"
+      ],
+      "passage": "The printing press, invented by Johannes Gutenberg around 1440, (A) the way information was shared. Before this (B) device, books were copied by hand, a process that was slow and expensive. Gutenberg's movable type (C) printers to produce books quickly and in large numbers. This (D) led to a dramatic fall in the cost of books. As a result, literacy (E) across Europe, and new ideas spread more (F) than ever before.",
+      "blanks": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": "grp_rc_16_23",
+      "type": "readingComprehension",
+      "title": "Reading Comprehension - Developing Nations Energy",
+      "section": "english",
+      "questionIds": [
+        "q16",
+        "q17",
+        "q18",
+        "q19",
+        "q20",
+        "q21",
+        "q22",
+        "q23"
+      ],
+      "passage": "Developing nations face a dual challenge: expanding access to electricity while limiting carbon emissions. For decades, fossil fuels dominated their energy mix, but the falling cost of solar and wind technology has begun to change this picture dramatically.\n\nSolar power, in particular, has emerged as a game-changer. In many rural regions where extending the traditional grid is prohibitively expensive, small solar installations now bring light to homes that had never before been connected. These decentralised systems are often cheaper and quicker to deploy than large power plants.\n\nYet the transition is far from (I). Financing remains a major obstacle, as upfront costs deter households and small businesses. Governments in poorer countries frequently lack the capital to subsidise clean energy on the scale required, and international funding, though growing, is still inadequate.\n\nPolicy also plays a crucial role. Nations that have offered stable incentives and clear regulations have attracted far more investment than those with unpredictable rules. Political will, therefore, can be as important as technology in determining the pace of adoption.\n\nDespite these hurdles, the momentum appears unstoppable. As prices continue to decline and awareness of climate risks grows, renewable energy is likely to become the default choice rather than a costly alternative for the developing world.",
+      "blankMarker": "(I)"
+    },
+    {
+      "id": "grp_double_fillers_24_27",
+      "type": "doubleFillers",
+      "title": "Double Fillers",
+      "section": "english",
+      "questionIds": [
+        "q24",
+        "q25",
+        "q26",
+        "q27"
+      ]
+    },
+    {
+      "id": "grp_sentence_rearrange_28_30",
+      "type": "sentenceRearrangement",
+      "title": "Sentence Part Rearrangement",
+      "section": "english",
+      "questionIds": [
+        "q28",
+        "q29",
+        "q30"
+      ]
+    },
+    {
+      "id": "grp_para_jumble_31_35",
+      "type": "paraJumble",
+      "title": "Para-Jumble - Impact of E-commerce",
+      "section": "english",
+      "questionIds": [
+        "q31",
+        "q32",
+        "q33",
+        "q34",
+        "q35"
+      ],
+      "sentences": [
+        {
+          "id": "A",
+          "text": "This shift has forced many traditional brick-and-mortar stores to rethink their strategies."
+        },
+        {
+          "id": "B",
+          "text": "E-commerce has fundamentally transformed the way consumers shop."
+        },
+        {
+          "id": "C",
+          "text": "Today, a customer can compare prices and order products from around the world with a few clicks."
+        },
+        {
+          "id": "D",
+          "text": "Some retailers have responded by building their own online platforms and offering home delivery."
+        },
+        {
+          "id": "E",
+          "text": "As a result, the line between physical and digital retail is rapidly disappearing."
+        }
+      ],
+      "correctOrder": [
+        "B",
+        "C",
+        "A",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": "grp_word_rearr_36_38",
+      "type": "wordRearrangement",
+      "title": "Word Rearrangement",
+      "section": "english",
+      "questionIds": [
+        "q36",
+        "q37",
+        "q38"
+      ]
+    },
+    {
+      "id": "grp_correct_usage_39_40",
+      "type": "correctUsage",
+      "title": "Correct Usage of a Word",
+      "section": "english",
+      "questionIds": [
+        "q39",
+        "q40"
+      ]
+    },
+    {
+      "id": "grp_di_car_sales_41_45",
+      "type": "dataInterpretation",
+      "title": "Data Interpretation - Car Model Sales",
+      "section": "quant",
+      "questionIds": [
+        "q41",
+        "q42",
+        "q43",
+        "q44",
+        "q45"
+      ],
+      "data": {
+        "description": "The monthly sales (in units) of five car models are: A = 1200, B = 1500, C = 900, D = 1400, E = 1000. (Total = 6000 units.)",
+        "table": [
+          {
+            "model": "A",
+            "sales": 1200
+          },
+          {
+            "model": "B",
+            "sales": 1500
+          },
+          {
+            "model": "C",
+            "sales": 900
+          },
+          {
+            "model": "D",
+            "sales": 1400
+          },
+          {
+            "model": "E",
+            "sales": 1000
+          }
+        ],
+        "total": 6000
+      }
+    },
+    {
+      "id": "grp_caselet_46_49",
+      "type": "caselet",
+      "title": "Caselet - Sports Survey",
+      "section": "quant",
+      "questionIds": [
+        "q46",
+        "q47",
+        "q48",
+        "q49"
+      ],
+      "data": {
+        "description": "Out of 400 students, three sports — cricket, football and tennis — are surveyed. Only cricket = 80, only football = 60, only tennis = 50. Cricket & football only = 40, football & tennis only = 30, cricket & tennis only = 20, all three = 25.",
+        "totalStudents": 400,
+        "onlyCricket": 80,
+        "onlyFootball": 60,
+        "onlyTennis": 50,
+        "cricketFootballOnly": 40,
+        "footballTennisOnly": 30,
+        "cricketTennisOnly": 20,
+        "allThree": 25
+      }
+    },
+    {
+      "id": "grp_bar_firms_50_55",
+      "type": "barGraph",
+      "title": "Bar Graph - Employees in Firms",
+      "section": "quant",
+      "questionIds": [
+        "q50",
+        "q51",
+        "q52",
+        "q53",
+        "q54",
+        "q55"
+      ],
+      "data": {
+        "description": "Number of Male (M) and Female (F) employees in five firms",
+        "firms": [
+          {
+            "firm": "P",
+            "male": 120,
+            "female": 80,
+            "total": 200
+          },
+          {
+            "firm": "Q",
+            "male": 150,
+            "female": 100,
+            "total": 250
+          },
+          {
+            "firm": "R",
+            "male": 200,
+            "female": 150,
+            "total": 350
+          },
+          {
+            "firm": "S",
+            "male": 90,
+            "female": 110,
+            "total": 200
+          },
+          {
+            "firm": "T",
+            "male": 160,
+            "female": 140,
+            "total": 300
+          }
+        ]
+      }
+    },
+    {
+      "id": "grp_stacked_boxes_71_75",
+      "type": "puzzle",
+      "subType": "linearArrangement",
+      "title": "Stacked Boxes Puzzle",
+      "section": "reasoning",
+      "questionIds": [
+        "q71",
+        "q72",
+        "q73",
+        "q74",
+        "q75"
+      ],
+      "puzzleText": "Nine boxes J, K, L, M, N, O, P, Q, R are stacked one above another.\n- Only two boxes are below box J.\n- Box P is immediately below box J.\n- Box M is at the bottom.\n- Box L is immediately above box J, and box O is immediately above box L.\n- Box K is immediately below box N.\n- Box R is at the top and box Q is immediately below box R.\n- Three boxes are between box L and box Q.",
+      "solutionOrderTopToBottom": [
+        "R",
+        "Q",
+        "N",
+        "K",
+        "O",
+        "L",
+        "J",
+        "P",
+        "M"
+      ]
+    },
+    {
+      "id": "grp_month_activity_81_85",
+      "type": "puzzle",
+      "subType": "monthActivity",
+      "title": "Month-Activity Puzzle",
+      "section": "reasoning",
+      "questionIds": [
+        "q81",
+        "q82",
+        "q83",
+        "q84",
+        "q85"
+      ],
+      "puzzleText": "Seven people A, B, C, D, E, F, G do seven different activities in seven months — January, March, April, June, August, October, December (in calendar order).\n- Two people are scheduled between C and D.\n- A goes in the month immediately after C.\n- F goes in the month immediately before D.\n- E goes in the last month.\n- One person is scheduled between G and E.\n- B goes in the month immediately before E.\n- The person going in January likes Reading; A likes Painting; F likes Trekking; D likes Singing; G likes Cooking; the person in the last month likes Writing; B likes Dancing.",
+      "solution": [
+        {
+          "month": "January",
+          "person": "C",
+          "activity": "Reading"
+        },
+        {
+          "month": "March",
+          "person": "A",
+          "activity": "Painting"
+        },
+        {
+          "month": "April",
+          "person": "F",
+          "activity": "Trekking"
+        },
+        {
+          "month": "June",
+          "person": "D",
+          "activity": "Singing"
+        },
+        {
+          "month": "August",
+          "person": "G",
+          "activity": "Cooking"
+        },
+        {
+          "month": "October",
+          "person": "B",
+          "activity": "Dancing"
+        },
+        {
+          "month": "December",
+          "person": "E",
+          "activity": "Writing"
+        }
+      ]
+    },
+    {
+      "id": "grp_two_row_86_90",
+      "type": "seating",
+      "subType": "twoRow",
+      "title": "Two-Row Seating",
+      "section": "reasoning",
+      "questionIds": [
+        "q86",
+        "q87",
+        "q88",
+        "q89",
+        "q90"
+      ],
+      "puzzleText": "Seven people sit in each of two rows. Row 1 (A, B, C, D, E, F, G) faces north; Row 2 (P, Q, R, S, T, U, W) faces south, and members of the two rows face each other position-for-position (position 1 of Row 1 faces position 1 of Row 2, and so on). Row 1 (positions 1→7, left to right): B, E, A, G, C, F, D. Row 2 (positions 1→7, left to right): T, P, W, S, R, Q, U. Facing pairs: B–T, E–P, A–W, G–S, C–R, F–Q, D–U.",
+      "arrangement": {
+        "row1": [
+          "B",
+          "E",
+          "A",
+          "G",
+          "C",
+          "F",
+          "D"
+        ],
+        "row2": [
+          "T",
+          "P",
+          "W",
+          "S",
+          "R",
+          "Q",
+          "U"
+        ]
+      }
+    },
+    {
+      "id": "grp_age_year_91_95",
+      "type": "puzzle",
+      "subType": "ageYear",
+      "title": "Age / Year Arrangement",
+      "section": "reasoning",
+      "questionIds": [
+        "q91",
+        "q92",
+        "q93",
+        "q94",
+        "q95"
+      ],
+      "puzzleText": "Seven people P, Q, R, S, T, U, V were born in different years: 1960, 1968, 1972, 1980, 1985, 1990, 1998. (Older = born earlier.)\n- R is the eldest.\n- Only two people are elder to P.\n- U is elder to P.\n- One person was born between P and S.\n- Q is elder to T but younger than S.\n- V is elder to S.\n- T is the youngest.",
+      "solutionOrderEldestToYoungest": [
+        {
+          "person": "R",
+          "year": 1960
+        },
+        {
+          "person": "U",
+          "year": 1968
+        },
+        {
+          "person": "P",
+          "year": 1972
+        },
+        {
+          "person": "V",
+          "year": 1980
+        },
+        {
+          "person": "S",
+          "year": 1985
+        },
+        {
+          "person": "Q",
+          "year": 1990
+        },
+        {
+          "person": "T",
+          "year": 1998
+        }
+      ]
+    },
+    {
+      "id": "grp_circular_96_100",
+      "type": "seating",
+      "subType": "circular",
+      "title": "Circular Table - City Puzzle",
+      "section": "reasoning",
+      "questionIds": [
+        "q96",
+        "q97",
+        "q98",
+        "q99",
+        "q100"
+      ],
+      "puzzleText": "Seven people A, B, C, D, E, F, G sit around a circular table facing the centre, each from a different city. Seated clockwise: A, C, E, B, G, D, F. Cities: A–Delhi, C–Pune, E–Kolkata, B–Mumbai, G–Jaipur, D–Chennai, F–Surat. (For a person facing the centre, left = clockwise, right = anticlockwise.)",
+      "arrangementClockwise": [
+        "A",
+        "C",
+        "E",
+        "B",
+        "G",
+        "D",
+        "F"
+      ],
+      "cities": {
+        "A": "Delhi",
+        "C": "Pune",
+        "E": "Kolkata",
+        "B": "Mumbai",
+        "G": "Jaipur",
+        "D": "Chennai",
+        "F": "Surat"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "section": "english",
+      "groupId": "grp_cloze_1_6",
+      "type": "mcq",
+      "text": "Which of the following words will fit in the given blank (A)? The printing press, invented by Johannes Gutenberg around 1440, (A) the way information was shared.",
+      "options": [
+        {
+          "id": "a",
+          "text": "delayed"
+        },
+        {
+          "id": "b",
+          "text": "revolutionized"
+        },
+        {
+          "id": "c",
+          "text": "ignored"
+        },
+        {
+          "id": "d",
+          "text": "reduced"
+        },
+        {
+          "id": "e",
+          "text": "copied"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Blank A: printing press revolutionized information sharing."
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "section": "english",
+      "groupId": "grp_cloze_1_6",
+      "type": "mcq",
+      "text": "Which of the following words will fit in the given blank (B)? Before this (B) device, books were copied by hand, a process that was slow and expensive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "remarkable"
+        },
+        {
+          "id": "b",
+          "text": "ordinary"
+        },
+        {
+          "id": "c",
+          "text": "useless"
+        },
+        {
+          "id": "d",
+          "text": "dull"
+        },
+        {
+          "id": "e",
+          "text": "tiny"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "section": "english",
+      "groupId": "grp_cloze_1_6",
+      "type": "mcq",
+      "text": "Which of the following words will fit in the given blank (C)? Gutenberg's movable type (C) printers to produce books quickly and in large numbers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "prevented"
+        },
+        {
+          "id": "b",
+          "text": "forced"
+        },
+        {
+          "id": "c",
+          "text": "enabled"
+        },
+        {
+          "id": "d",
+          "text": "refused"
+        },
+        {
+          "id": "e",
+          "text": "delayed"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "section": "english",
+      "groupId": "grp_cloze_1_6",
+      "type": "mcq",
+      "text": "Which of the following words will fit in the given blank (D)? This (D) led to a dramatic fall in the cost of books.",
+      "options": [
+        {
+          "id": "a",
+          "text": "innovation"
+        },
+        {
+          "id": "b",
+          "text": "failure"
+        },
+        {
+          "id": "c",
+          "text": "mistake"
+        },
+        {
+          "id": "d",
+          "text": "delay"
+        },
+        {
+          "id": "e",
+          "text": "tradition"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "section": "english",
+      "groupId": "grp_cloze_1_6",
+      "type": "mcq",
+      "text": "Which of the following words will fit in the given blank (E)? As a result, literacy (E) across Europe, and new ideas spread more...",
+      "options": [
+        {
+          "id": "a",
+          "text": "fell"
+        },
+        {
+          "id": "b",
+          "text": "rose"
+        },
+        {
+          "id": "c",
+          "text": "vanished"
+        },
+        {
+          "id": "d",
+          "text": "declined"
+        },
+        {
+          "id": "e",
+          "text": "stopped"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "section": "english",
+      "groupId": "grp_cloze_1_6",
+      "type": "mcq",
+      "text": "Which of the following words will fit in the given blank (F)? ...and new ideas spread more (F) than ever before.",
+      "options": [
+        {
+          "id": "a",
+          "text": "slowly"
+        },
+        {
+          "id": "b",
+          "text": "rarely"
+        },
+        {
+          "id": "c",
+          "text": "widely"
+        },
+        {
+          "id": "d",
+          "text": "narrowly"
+        },
+        {
+          "id": "e",
+          "text": "hardly"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "section": "english",
+      "type": "mcq",
+      "text": "(A) He is / (B) an honest man / (C) and a European / (D) by birth. Identify the part that contains an error. If there is no error, mark (e).",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "No error"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "section": "english",
+      "type": "mcq",
+      "text": "(A) She has been working / (B) in this office / (C) since five years / (D) without a break. Identify the part that contains an error.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "No error"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "since -> for; 'since five years' should be 'for five years'"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "section": "english",
+      "type": "mcq",
+      "text": "(A) One of the most / (B) beautiful paintings / (C) in the gallery / (D) were stolen last night. Identify the part that contains an error.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "No error"
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "One of the most ... was stolen, not were."
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "section": "english",
+      "type": "mcq",
+      "text": "(A) He is senior / (B) than me / (C) by three years / (D) in this company. Identify the part that contains an error.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "No error"
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "senior to me, not than me"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "section": "english",
+      "type": "mcq",
+      "text": "(A) Neither the teacher / (B) nor the students / (C) was present / (D) in the class today. Identify the part that contains an error.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "No error"
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Neither...nor takes verb agreeing with nearest subject -> were present"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "section": "english",
+      "type": "mcq",
+      "text": "The committee have decided to postpone the meeting. Choose the best replacement for the highlighted segment 'have decided'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has decided"
+        },
+        {
+          "id": "b",
+          "text": "have been deciding"
+        },
+        {
+          "id": "c",
+          "text": "had decide"
+        },
+        {
+          "id": "d",
+          "text": "are deciding"
+        },
+        {
+          "id": "e",
+          "text": "No replacement required"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "section": "english",
+      "type": "mcq",
+      "text": "He did not knew the answer to the question. Choose the best replacement for 'knew'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "did not known"
+        },
+        {
+          "id": "b",
+          "text": "know"
+        },
+        {
+          "id": "c",
+          "text": "does not knew"
+        },
+        {
+          "id": "d",
+          "text": "had not knew"
+        },
+        {
+          "id": "e",
+          "text": "No replacement required"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "section": "english",
+      "type": "mcq",
+      "text": "The scenery of the hills were breathtaking. Choose the best replacement for 'were breathtaking'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was breathtaking"
+        },
+        {
+          "id": "b",
+          "text": "are breathtaking"
+        },
+        {
+          "id": "c",
+          "text": "have been breathtaking"
+        },
+        {
+          "id": "d",
+          "text": "were breathtaken"
+        },
+        {
+          "id": "e",
+          "text": "No replacement required"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "section": "english",
+      "type": "mcq",
+      "text": "She is more cleverer than her sister. Choose the best replacement for 'more cleverer'.",
+      "options": [
+        {
+          "id": "a",
+          "text": "most clever"
+        },
+        {
+          "id": "b",
+          "text": "cleverer"
+        },
+        {
+          "id": "c",
+          "text": "more clever than"
+        },
+        {
+          "id": "d",
+          "text": "cleverest"
+        },
+        {
+          "id": "e",
+          "text": "No replacement required"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "According to the passage, why is solar power especially valuable in rural regions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is the only source of energy there"
+        },
+        {
+          "id": "b",
+          "text": "Extending the traditional grid there is very expensive"
+        },
+        {
+          "id": "c",
+          "text": "It requires large power plants"
+        },
+        {
+          "id": "d",
+          "text": "It is subsidised by international bodies"
+        },
+        {
+          "id": "e",
+          "text": "It works only in cities"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "What does the author cite as a major obstacle to the transition?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lack of sunlight"
+        },
+        {
+          "id": "b",
+          "text": "Excess of fossil fuels"
+        },
+        {
+          "id": "c",
+          "text": "Financing and high upfront costs"
+        },
+        {
+          "id": "d",
+          "text": "Too much international funding"
+        },
+        {
+          "id": "e",
+          "text": "Overproduction of solar panels"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "According to the passage, what attracts more investment in renewable energy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unpredictable rules"
+        },
+        {
+          "id": "b",
+          "text": "High taxes"
+        },
+        {
+          "id": "c",
+          "text": "Stable incentives and clear regulations"
+        },
+        {
+          "id": "d",
+          "text": "Banning fossil fuels"
+        },
+        {
+          "id": "e",
+          "text": "Cheap labour"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "Which best describes the author's overall tone about the future of renewable energy in developing nations?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pessimistic"
+        },
+        {
+          "id": "b",
+          "text": "Indifferent"
+        },
+        {
+          "id": "c",
+          "text": "Optimistic"
+        },
+        {
+          "id": "d",
+          "text": "Angry"
+        },
+        {
+          "id": "e",
+          "text": "Confused"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "Choose the word most similar in meaning to prohibitively as used in the passage.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cheaply"
+        },
+        {
+          "id": "b",
+          "text": "excessively"
+        },
+        {
+          "id": "c",
+          "text": "rarely"
+        },
+        {
+          "id": "d",
+          "text": "partly"
+        },
+        {
+          "id": "e",
+          "text": "legally"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "Choose the word most similar in meaning to momentum as used in the passage.",
+      "options": [
+        {
+          "id": "a",
+          "text": "stillness"
+        },
+        {
+          "id": "b",
+          "text": "impetus"
+        },
+        {
+          "id": "c",
+          "text": "weakness"
+        },
+        {
+          "id": "d",
+          "text": "delay"
+        },
+        {
+          "id": "e",
+          "text": "doubt"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "Choose the word most opposite in meaning to decline as used in the passage.",
+      "options": [
+        {
+          "id": "a",
+          "text": "fall"
+        },
+        {
+          "id": "b",
+          "text": "drop"
+        },
+        {
+          "id": "c",
+          "text": "rise"
+        },
+        {
+          "id": "d",
+          "text": "reduce"
+        },
+        {
+          "id": "e",
+          "text": "shrink"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "section": "english",
+      "groupId": "grp_rc_16_23",
+      "type": "mcq",
+      "text": "Which word best fits blank (I) in the passage (\"the transition is far from __\")?",
+      "options": [
+        {
+          "id": "a",
+          "text": "smooth"
+        },
+        {
+          "id": "b",
+          "text": "rough"
+        },
+        {
+          "id": "c",
+          "text": "costly"
+        },
+        {
+          "id": "d",
+          "text": "begun"
+        },
+        {
+          "id": "e",
+          "text": "needed"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "section": "english",
+      "groupId": "grp_double_fillers_24_27",
+      "type": "mcq",
+      "text": "The government has ___ several measures to ___ the spread of the disease.",
+      "options": [
+        {
+          "id": "a",
+          "text": "taken / increase"
+        },
+        {
+          "id": "b",
+          "text": "introduced / curb"
+        },
+        {
+          "id": "c",
+          "text": "removed / spread"
+        },
+        {
+          "id": "d",
+          "text": "ignored / stop"
+        },
+        {
+          "id": "e",
+          "text": "delayed / boost"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "section": "english",
+      "groupId": "grp_double_fillers_24_27",
+      "type": "mcq",
+      "text": "Despite his ___ efforts, he failed to ___ the judges.",
+      "options": [
+        {
+          "id": "a",
+          "text": "sincere / impress"
+        },
+        {
+          "id": "b",
+          "text": "lazy / convince"
+        },
+        {
+          "id": "c",
+          "text": "honest / annoy"
+        },
+        {
+          "id": "d",
+          "text": "weak / please"
+        },
+        {
+          "id": "e",
+          "text": "poor / satisfy"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "section": "english",
+      "groupId": "grp_double_fillers_24_27",
+      "type": "mcq",
+      "text": "The scientist's ___ discovery could ___ the way we treat cancer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "minor / stop"
+        },
+        {
+          "id": "b",
+          "text": "groundbreaking / transform"
+        },
+        {
+          "id": "c",
+          "text": "old / delay"
+        },
+        {
+          "id": "d",
+          "text": "failed / ruin"
+        },
+        {
+          "id": "e",
+          "text": "small / end"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "section": "english",
+      "groupId": "grp_double_fillers_24_27",
+      "type": "mcq",
+      "text": "The manager ___ the team for their ___ performance during the crisis.",
+      "options": [
+        {
+          "id": "a",
+          "text": "blamed / poor"
+        },
+        {
+          "id": "b",
+          "text": "scolded / weak"
+        },
+        {
+          "id": "c",
+          "text": "praised / outstanding"
+        },
+        {
+          "id": "d",
+          "text": "ignored / bad"
+        },
+        {
+          "id": "e",
+          "text": "fired / great"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "section": "english",
+      "groupId": "grp_sentence_rearrange_28_30",
+      "type": "mcq",
+      "text": "Rearrange parts (A)/(B)/(C)/(D) into a meaningful sentence: (A) to complete the project (B) the team worked (C) before the deadline (D) day and night",
+      "options": [
+        {
+          "id": "a",
+          "text": "BDAC"
+        },
+        {
+          "id": "b",
+          "text": "BADC"
+        },
+        {
+          "id": "c",
+          "text": "ABCD"
+        },
+        {
+          "id": "d",
+          "text": "DBAC"
+        },
+        {
+          "id": "e",
+          "text": "BCAD"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "section": "english",
+      "groupId": "grp_sentence_rearrange_28_30",
+      "type": "mcq",
+      "text": "Rearrange: (A) is essential (B) a balanced diet (C) for good health (D) along with exercise",
+      "options": [
+        {
+          "id": "a",
+          "text": "BADC"
+        },
+        {
+          "id": "b",
+          "text": "BDAC"
+        },
+        {
+          "id": "c",
+          "text": "ABCD"
+        },
+        {
+          "id": "d",
+          "text": "DABC"
+        },
+        {
+          "id": "e",
+          "text": "BCAD"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "section": "english",
+      "groupId": "grp_sentence_rearrange_28_30",
+      "type": "mcq",
+      "text": "Rearrange: (A) the new policy (B) was welcomed (C) by most employees (D) of the company",
+      "options": [
+        {
+          "id": "a",
+          "text": "ADBC"
+        },
+        {
+          "id": "b",
+          "text": "ABDC"
+        },
+        {
+          "id": "c",
+          "text": "DABC"
+        },
+        {
+          "id": "d",
+          "text": "ADCB"
+        },
+        {
+          "id": "e",
+          "text": "ABCD"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "section": "english",
+      "groupId": "grp_para_jumble_31_35",
+      "type": "mcq",
+      "text": "Which is the FIRST sentence? A. This shift has forced many traditional brick-and-mortar stores to rethink their strategies. B. E-commerce has fundamentally transformed the way consumers shop. C. Today, a customer can compare prices and order products from around the world with a few clicks. D. Some retailers have responded by building their own online platforms and offering home delivery. E. As a result, the line between physical and digital retail is rapidly disappearing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "section": "english",
+      "groupId": "grp_para_jumble_31_35",
+      "type": "mcq",
+      "text": "Which is the SECOND sentence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "section": "english",
+      "groupId": "grp_para_jumble_31_35",
+      "type": "mcq",
+      "text": "Which is the THIRD sentence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "section": "english",
+      "groupId": "grp_para_jumble_31_35",
+      "type": "mcq",
+      "text": "Which is the FOURTH sentence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "section": "english",
+      "groupId": "grp_para_jumble_31_35",
+      "type": "mcq",
+      "text": "Which is the LAST sentence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "section": "english",
+      "groupId": "grp_word_rearr_36_38",
+      "type": "mcq",
+      "text": "She (A)the (B)opened (C)carefully (D)box and looked inside. The highlighted words (A)(B)(C)(D) must be reordered to make the sentence meaningful. Pick the correct sequence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ABDC"
+        },
+        {
+          "id": "b",
+          "text": "BDAC"
+        },
+        {
+          "id": "c",
+          "text": "BADC"
+        },
+        {
+          "id": "d",
+          "text": "DACB"
+        },
+        {
+          "id": "e",
+          "text": "BACD"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "section": "english",
+      "groupId": "grp_word_rearr_36_38",
+      "type": "mcq",
+      "text": "The teacher (A)students (B)asked (C)the (D)to sit down. The highlighted words (A)(B)(C)(D) must be reordered to make the sentence meaningful.",
+      "options": [
+        {
+          "id": "a",
+          "text": "BACD"
+        },
+        {
+          "id": "b",
+          "text": "BCAD"
+        },
+        {
+          "id": "c",
+          "text": "ABCD"
+        },
+        {
+          "id": "d",
+          "text": "CABD"
+        },
+        {
+          "id": "e",
+          "text": "BCDA"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "section": "english",
+      "groupId": "grp_word_rearr_36_38",
+      "type": "mcq",
+      "text": "We (A)decided (B)have (C)to (D)go on a holiday. The highlighted words (A)(B)(C)(D) must be reordered to make the sentence meaningful.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ABCD"
+        },
+        {
+          "id": "b",
+          "text": "BCAD"
+        },
+        {
+          "id": "c",
+          "text": "ACBD"
+        },
+        {
+          "id": "d",
+          "text": "BACD"
+        },
+        {
+          "id": "e",
+          "text": "BADC"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "section": "english",
+      "groupId": "grp_correct_usage_39_40",
+      "type": "mcq",
+      "text": "Word: EFFECT I. The new law will effect the price of fuel. II. The medicine had an immediate effect on the patient. III. The manager tried to effect a change in the schedule. Identify which sentence(s) use it correctly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only I"
+        },
+        {
+          "id": "b",
+          "text": "Only II"
+        },
+        {
+          "id": "c",
+          "text": "Only II and III"
+        },
+        {
+          "id": "d",
+          "text": "Only I and II"
+        },
+        {
+          "id": "e",
+          "text": "All three"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "section": "english",
+      "groupId": "grp_correct_usage_39_40",
+      "type": "mcq",
+      "text": "Word: COMPLEMENT I. The scarf is a perfect complement to her dress. II. The chef received many complements for the meal. III. A full complement of staff was present at the event. Identify which sentence(s) use it correctly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only I"
+        },
+        {
+          "id": "b",
+          "text": "Only III"
+        },
+        {
+          "id": "c",
+          "text": "Only II"
+        },
+        {
+          "id": "d",
+          "text": "Only I and III"
+        },
+        {
+          "id": "e",
+          "text": "All three"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "section": "quant",
+      "groupId": "grp_di_car_sales_41_45",
+      "type": "mcq",
+      "text": "Sales of model B are what percent of the total sales? Monthly sales: A=1200, B=1500, C=900, D=1400, E=1000, Total=6000",
+      "options": [
+        {
+          "id": "a",
+          "text": "20%"
+        },
+        {
+          "id": "b",
+          "text": "22.5%"
+        },
+        {
+          "id": "c",
+          "text": "25%"
+        },
+        {
+          "id": "d",
+          "text": "27.5%"
+        },
+        {
+          "id": "e",
+          "text": "30%"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "section": "quant",
+      "groupId": "grp_di_car_sales_41_45",
+      "type": "mcq",
+      "text": "What is the ratio of the sales of model A to model D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7:6"
+        },
+        {
+          "id": "b",
+          "text": "6:7"
+        },
+        {
+          "id": "c",
+          "text": "5:7"
+        },
+        {
+          "id": "d",
+          "text": "6:5"
+        },
+        {
+          "id": "e",
+          "text": "4:7"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "section": "quant",
+      "groupId": "grp_di_car_sales_41_45",
+      "type": "mcq",
+      "text": "Sales of model A are what percent more than sales of model E?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15%"
+        },
+        {
+          "id": "b",
+          "text": "16.67%"
+        },
+        {
+          "id": "c",
+          "text": "20%"
+        },
+        {
+          "id": "d",
+          "text": "25%"
+        },
+        {
+          "id": "e",
+          "text": "10%"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "section": "quant",
+      "groupId": "grp_di_car_sales_41_45",
+      "type": "mcq",
+      "text": "In a pie chart of this data, what is the central angle for model D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "72°"
+        },
+        {
+          "id": "b",
+          "text": "78°"
+        },
+        {
+          "id": "c",
+          "text": "84°"
+        },
+        {
+          "id": "d",
+          "text": "90°"
+        },
+        {
+          "id": "e",
+          "text": "96°"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "section": "quant",
+      "groupId": "grp_di_car_sales_41_45",
+      "type": "mcq",
+      "text": "What is the average monthly sales of all five models?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1000"
+        },
+        {
+          "id": "b",
+          "text": "1100"
+        },
+        {
+          "id": "c",
+          "text": "1200"
+        },
+        {
+          "id": "d",
+          "text": "1250"
+        },
+        {
+          "id": "e",
+          "text": "1300"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "section": "quant",
+      "groupId": "grp_caselet_46_49",
+      "type": "mcq",
+      "text": "How many students like cricket (in total)? Out of 400 students: Only cricket=80, only football=60, only tennis=50, Cricket & football only=40, football & tennis only=30, cricket & tennis only=20, all three=25.",
+      "options": [
+        {
+          "id": "a",
+          "text": "150"
+        },
+        {
+          "id": "b",
+          "text": "160"
+        },
+        {
+          "id": "c",
+          "text": "165"
+        },
+        {
+          "id": "d",
+          "text": "170"
+        },
+        {
+          "id": "e",
+          "text": "175"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "section": "quant",
+      "groupId": "grp_caselet_46_49",
+      "type": "mcq",
+      "text": "How many students like exactly two of the three sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "80"
+        },
+        {
+          "id": "b",
+          "text": "85"
+        },
+        {
+          "id": "c",
+          "text": "90"
+        },
+        {
+          "id": "d",
+          "text": "95"
+        },
+        {
+          "id": "e",
+          "text": "100"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "section": "quant",
+      "groupId": "grp_caselet_46_49",
+      "type": "mcq",
+      "text": "How many students like football (in total)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "145"
+        },
+        {
+          "id": "b",
+          "text": "150"
+        },
+        {
+          "id": "c",
+          "text": "155"
+        },
+        {
+          "id": "d",
+          "text": "160"
+        },
+        {
+          "id": "e",
+          "text": "165"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "section": "quant",
+      "groupId": "grp_caselet_46_49",
+      "type": "mcq",
+      "text": "How many students like none of the three sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "85"
+        },
+        {
+          "id": "b",
+          "text": "90"
+        },
+        {
+          "id": "c",
+          "text": "95"
+        },
+        {
+          "id": "d",
+          "text": "100"
+        },
+        {
+          "id": "e",
+          "text": "105"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "section": "quant",
+      "groupId": "grp_bar_firms_50_55",
+      "type": "mcq",
+      "text": "What is the total number of employees in firm R? P: M=120, F=80 | Q: M=150, F=100 | R: M=200, F=150 | S: M=90, F=110 | T: M=160, F=140",
+      "options": [
+        {
+          "id": "a",
+          "text": "300"
+        },
+        {
+          "id": "b",
+          "text": "320"
+        },
+        {
+          "id": "c",
+          "text": "340"
+        },
+        {
+          "id": "d",
+          "text": "350"
+        },
+        {
+          "id": "e",
+          "text": "360"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q51",
+      "number": 51,
+      "section": "quant",
+      "groupId": "grp_bar_firms_50_55",
+      "type": "mcq",
+      "text": "What is the ratio of males in firm P to females in firm Q?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5:6"
+        },
+        {
+          "id": "b",
+          "text": "6:5"
+        },
+        {
+          "id": "c",
+          "text": "4:5"
+        },
+        {
+          "id": "d",
+          "text": "5:4"
+        },
+        {
+          "id": "e",
+          "text": "3:2"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q52",
+      "number": 52,
+      "section": "quant",
+      "groupId": "grp_bar_firms_50_55",
+      "type": "mcq",
+      "text": "What is the total number of female employees across all five firms?",
+      "options": [
+        {
+          "id": "a",
+          "text": "560"
+        },
+        {
+          "id": "b",
+          "text": "570"
+        },
+        {
+          "id": "c",
+          "text": "580"
+        },
+        {
+          "id": "d",
+          "text": "590"
+        },
+        {
+          "id": "e",
+          "text": "600"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q53",
+      "number": 53,
+      "section": "quant",
+      "groupId": "grp_bar_firms_50_55",
+      "type": "mcq",
+      "text": "In which firm is the number of females greater than the number of males?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P"
+        },
+        {
+          "id": "b",
+          "text": "Q"
+        },
+        {
+          "id": "c",
+          "text": "R"
+        },
+        {
+          "id": "d",
+          "text": "S"
+        },
+        {
+          "id": "e",
+          "text": "T"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q54",
+      "number": 54,
+      "section": "quant",
+      "groupId": "grp_bar_firms_50_55",
+      "type": "mcq",
+      "text": "What is the average number of male employees per firm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "140"
+        },
+        {
+          "id": "b",
+          "text": "142"
+        },
+        {
+          "id": "c",
+          "text": "144"
+        },
+        {
+          "id": "d",
+          "text": "146"
+        },
+        {
+          "id": "e",
+          "text": "150"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q55",
+      "number": 55,
+      "section": "quant",
+      "groupId": "grp_bar_firms_50_55",
+      "type": "mcq",
+      "text": "Males in firm Q are what percent of the total employees in firm Q?",
+      "options": [
+        {
+          "id": "a",
+          "text": "55%"
+        },
+        {
+          "id": "b",
+          "text": "58%"
+        },
+        {
+          "id": "c",
+          "text": "60%"
+        },
+        {
+          "id": "d",
+          "text": "62%"
+        },
+        {
+          "id": "e",
+          "text": "65%"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q56",
+      "number": 56,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A shopkeeper mixes 30 kg of rice costing Rs 40/kg with 20 kg of rice costing Rs 60/kg. Find the average price of the mixture per kg.",
+      "options": [
+        {
+          "id": "a",
+          "text": "45"
+        },
+        {
+          "id": "b",
+          "text": "46"
+        },
+        {
+          "id": "c",
+          "text": "48"
+        },
+        {
+          "id": "d",
+          "text": "50"
+        },
+        {
+          "id": "e",
+          "text": "52"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q57",
+      "number": 57,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A can complete a work in 12 days and B in 18 days. Working together, in how many days will they finish it?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "6.5"
+        },
+        {
+          "id": "c",
+          "text": "7.2"
+        },
+        {
+          "id": "d",
+          "text": "7.5"
+        },
+        {
+          "id": "e",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q58",
+      "number": 58,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The population of a town is 15,000. It increases by 10% in the first year and decreases by 10% in the second year. Find the population after two years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "14700"
+        },
+        {
+          "id": "b",
+          "text": "14800"
+        },
+        {
+          "id": "c",
+          "text": "14850"
+        },
+        {
+          "id": "d",
+          "text": "15000"
+        },
+        {
+          "id": "e",
+          "text": "14950"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q59",
+      "number": 59,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Solve I and II and choose the correct relation between x and y. I. x² − 7x + 12 = 0 II. y² − 9y + 20 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x>y"
+        },
+        {
+          "id": "b",
+          "text": "x≥y"
+        },
+        {
+          "id": "c",
+          "text": "x<y"
+        },
+        {
+          "id": "d",
+          "text": "x≤y"
+        },
+        {
+          "id": "e",
+          "text": "x=y or no relation"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Solve I and II and choose the correct relation between x and y. I. x² − 16 = 0 II. y² − 9y + 18 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x>y"
+        },
+        {
+          "id": "b",
+          "text": "x≥y"
+        },
+        {
+          "id": "c",
+          "text": "x<y"
+        },
+        {
+          "id": "d",
+          "text": "x≤y"
+        },
+        {
+          "id": "e",
+          "text": "x=y or no relation"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q61",
+      "number": 61,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Solve I and II and choose the correct relation between x and y. I. x² − 9x + 20 = 0 II. y² − 7y + 12 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x>y"
+        },
+        {
+          "id": "b",
+          "text": "x≥y"
+        },
+        {
+          "id": "c",
+          "text": "x<y"
+        },
+        {
+          "id": "d",
+          "text": "x≤y"
+        },
+        {
+          "id": "e",
+          "text": "no relation"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q62",
+      "number": 62,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The ratio of the present ages of A and B is 5:7. After 6 years the ratio becomes 3:4. Find A's present age.",
+      "options": [
+        {
+          "id": "a",
+          "text": "25"
+        },
+        {
+          "id": "b",
+          "text": "28"
+        },
+        {
+          "id": "c",
+          "text": "30"
+        },
+        {
+          "id": "d",
+          "text": "35"
+        },
+        {
+          "id": "e",
+          "text": "32"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q63",
+      "number": 63,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A boat covers 36 km downstream in 3 hours and the same 36 km upstream in 6 hours. Find the speed of the boat in still water.",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "7.5"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "10.5"
+        },
+        {
+          "id": "e",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q64",
+      "number": 64,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A invests Rs 8000 and B invests Rs 12000 for one year. If the total profit is Rs 5000, find B's share.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2000"
+        },
+        {
+          "id": "b",
+          "text": "2500"
+        },
+        {
+          "id": "c",
+          "text": "3000"
+        },
+        {
+          "id": "d",
+          "text": "3500"
+        },
+        {
+          "id": "e",
+          "text": "2800"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q65",
+      "number": 65,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A train 150 m long running at 54 km/h crosses a platform 240 m long. How long does it take?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 s"
+        },
+        {
+          "id": "b",
+          "text": "24 s"
+        },
+        {
+          "id": "c",
+          "text": "26 s"
+        },
+        {
+          "id": "d",
+          "text": "28 s"
+        },
+        {
+          "id": "e",
+          "text": "30 s"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q66",
+      "number": 66,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Find the compound interest on Rs 10,000 at 10% per annum for 2 years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2000"
+        },
+        {
+          "id": "b",
+          "text": "2100"
+        },
+        {
+          "id": "c",
+          "text": "2200"
+        },
+        {
+          "id": "d",
+          "text": "1000"
+        },
+        {
+          "id": "e",
+          "text": "2050"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q67",
+      "number": 67,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The average of 5 numbers is 27. If the number 35 is removed, what is the average of the remaining numbers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "24"
+        },
+        {
+          "id": "b",
+          "text": "25"
+        },
+        {
+          "id": "c",
+          "text": "26"
+        },
+        {
+          "id": "d",
+          "text": "27"
+        },
+        {
+          "id": "e",
+          "text": "23"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q68",
+      "number": 68,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Find the surface area of a sphere whose radius is 7 cm. (Take π = 22/7.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "154"
+        },
+        {
+          "id": "b",
+          "text": "308"
+        },
+        {
+          "id": "c",
+          "text": "462"
+        },
+        {
+          "id": "d",
+          "text": "616"
+        },
+        {
+          "id": "e",
+          "text": "770"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q69",
+      "number": 69,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A man buys an article for Rs 400 and sells it for Rs 500. Find his profit percent.",
+      "options": [
+        {
+          "id": "a",
+          "text": "20%"
+        },
+        {
+          "id": "b",
+          "text": "25%"
+        },
+        {
+          "id": "c",
+          "text": "30%"
+        },
+        {
+          "id": "d",
+          "text": "15%"
+        },
+        {
+          "id": "e",
+          "text": "12.5%"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q70",
+      "number": 70,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Rs 1200 is divided among A, B and C in the ratio 2:3:5. Find C's share.",
+      "options": [
+        {
+          "id": "a",
+          "text": "400"
+        },
+        {
+          "id": "b",
+          "text": "500"
+        },
+        {
+          "id": "c",
+          "text": "600"
+        },
+        {
+          "id": "d",
+          "text": "700"
+        },
+        {
+          "id": "e",
+          "text": "720"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q71",
+      "number": 71,
+      "section": "reasoning",
+      "groupId": "grp_stacked_boxes_71_75",
+      "type": "mcq",
+      "text": "How many boxes are there between box P and box O?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Two"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "Four"
+        },
+        {
+          "id": "e",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q72",
+      "number": 72,
+      "section": "reasoning",
+      "groupId": "grp_stacked_boxes_71_75",
+      "type": "mcq",
+      "text": "Which box is immediately above box K?",
+      "options": [
+        {
+          "id": "a",
+          "text": "O"
+        },
+        {
+          "id": "b",
+          "text": "N"
+        },
+        {
+          "id": "c",
+          "text": "Q"
+        },
+        {
+          "id": "d",
+          "text": "L"
+        },
+        {
+          "id": "e",
+          "text": "R"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q73",
+      "number": 73,
+      "section": "reasoning",
+      "groupId": "grp_stacked_boxes_71_75",
+      "type": "mcq",
+      "text": "Which box is fifth from the bottom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "L"
+        },
+        {
+          "id": "b",
+          "text": "K"
+        },
+        {
+          "id": "c",
+          "text": "O"
+        },
+        {
+          "id": "d",
+          "text": "N"
+        },
+        {
+          "id": "e",
+          "text": "J"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q74",
+      "number": 74,
+      "section": "reasoning",
+      "groupId": "grp_stacked_boxes_71_75",
+      "type": "mcq",
+      "text": "How many boxes are above box N?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Two"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "Four"
+        },
+        {
+          "id": "e",
+          "text": "Five"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q75",
+      "number": 75,
+      "section": "reasoning",
+      "groupId": "grp_stacked_boxes_71_75",
+      "type": "mcq",
+      "text": "Which box is at the bottom of the stack?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P"
+        },
+        {
+          "id": "b",
+          "text": "J"
+        },
+        {
+          "id": "c",
+          "text": "M"
+        },
+        {
+          "id": "d",
+          "text": "R"
+        },
+        {
+          "id": "e",
+          "text": "Q"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q76",
+      "number": 76,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Statements: Only a few pens are books. All books are copies. Conclusions: I. Some pens are copies. II. All pens can never be copies.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only I follows"
+        },
+        {
+          "id": "b",
+          "text": "Only II follows"
+        },
+        {
+          "id": "c",
+          "text": "Both follow"
+        },
+        {
+          "id": "d",
+          "text": "Neither follows"
+        },
+        {
+          "id": "e",
+          "text": "Either follows"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q77",
+      "number": 77,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Statements: Only a few cats are dogs. No dog is a rat. Conclusions: I. Some cats are not rats. II. All rats being cats is a possibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only I follows"
+        },
+        {
+          "id": "b",
+          "text": "Only II follows"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II follow"
+        },
+        {
+          "id": "d",
+          "text": "Neither follows"
+        },
+        {
+          "id": "e",
+          "text": "Either follows"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q78",
+      "number": 78,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Statements: Only a few phones are laptops. Some laptops are tablets. Conclusions: I. All phones are tablets. II. Some phones are tablets.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only I follows"
+        },
+        {
+          "id": "b",
+          "text": "Only II follows"
+        },
+        {
+          "id": "c",
+          "text": "Both follow"
+        },
+        {
+          "id": "d",
+          "text": "Neither follows"
+        },
+        {
+          "id": "e",
+          "text": "Either follows"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q79",
+      "number": 79,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "If the letters of the word STREAM are arranged in alphabetical order from left to right, which letter is third from the left?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "E"
+        },
+        {
+          "id": "c",
+          "text": "M"
+        },
+        {
+          "id": "d",
+          "text": "R"
+        },
+        {
+          "id": "e",
+          "text": "S"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q80",
+      "number": 80,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "In the word COMPUTER, how many pairs of letters have as many letters between them (in the word) as in the English alphabet (either forward or backward)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Three"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "Five"
+        },
+        {
+          "id": "e",
+          "text": "Six"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q81",
+      "number": 81,
+      "section": "reasoning",
+      "groupId": "grp_month_activity_81_85",
+      "type": "mcq",
+      "text": "Who is scheduled in April?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "D"
+        },
+        {
+          "id": "c",
+          "text": "F"
+        },
+        {
+          "id": "d",
+          "text": "G"
+        },
+        {
+          "id": "e",
+          "text": "B"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q82",
+      "number": 82,
+      "section": "reasoning",
+      "groupId": "grp_month_activity_81_85",
+      "type": "mcq",
+      "text": "Which activity is done by the person scheduled in August?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reading"
+        },
+        {
+          "id": "b",
+          "text": "Cooking"
+        },
+        {
+          "id": "c",
+          "text": "Dancing"
+        },
+        {
+          "id": "d",
+          "text": "Writing"
+        },
+        {
+          "id": "e",
+          "text": "Singing"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q83",
+      "number": 83,
+      "section": "reasoning",
+      "groupId": "grp_month_activity_81_85",
+      "type": "mcq",
+      "text": "How many people are scheduled between A and B?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Three"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "One"
+        },
+        {
+          "id": "e",
+          "text": "Five"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q84",
+      "number": 84,
+      "section": "reasoning",
+      "groupId": "grp_month_activity_81_85",
+      "type": "mcq",
+      "text": "Who does Singing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C"
+        },
+        {
+          "id": "b",
+          "text": "D"
+        },
+        {
+          "id": "c",
+          "text": "F"
+        },
+        {
+          "id": "d",
+          "text": "G"
+        },
+        {
+          "id": "e",
+          "text": "A"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q85",
+      "number": 85,
+      "section": "reasoning",
+      "groupId": "grp_month_activity_81_85",
+      "type": "mcq",
+      "text": "In which month is E scheduled?",
+      "options": [
+        {
+          "id": "a",
+          "text": "October"
+        },
+        {
+          "id": "b",
+          "text": "August"
+        },
+        {
+          "id": "c",
+          "text": "December"
+        },
+        {
+          "id": "d",
+          "text": "June"
+        },
+        {
+          "id": "e",
+          "text": "March"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q86",
+      "number": 86,
+      "section": "reasoning",
+      "groupId": "grp_two_row_86_90",
+      "type": "mcq",
+      "text": "Who faces A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "T"
+        },
+        {
+          "id": "b",
+          "text": "P"
+        },
+        {
+          "id": "c",
+          "text": "W"
+        },
+        {
+          "id": "d",
+          "text": "S"
+        },
+        {
+          "id": "e",
+          "text": "R"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q87",
+      "number": 87,
+      "section": "reasoning",
+      "groupId": "grp_two_row_86_90",
+      "type": "mcq",
+      "text": "Who sits immediately to the right of C in Row 1?",
+      "options": [
+        {
+          "id": "a",
+          "text": "F"
+        },
+        {
+          "id": "b",
+          "text": "G"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q88",
+      "number": 88,
+      "section": "reasoning",
+      "groupId": "grp_two_row_86_90",
+      "type": "mcq",
+      "text": "How many people sit between P and Q in Row 2?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Three"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "One"
+        },
+        {
+          "id": "e",
+          "text": "Five"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q89",
+      "number": 89,
+      "section": "reasoning",
+      "groupId": "grp_two_row_86_90",
+      "type": "mcq",
+      "text": "Who faces the person sitting at the extreme right end of Row 1?",
+      "options": [
+        {
+          "id": "a",
+          "text": "T"
+        },
+        {
+          "id": "b",
+          "text": "Q"
+        },
+        {
+          "id": "c",
+          "text": "U"
+        },
+        {
+          "id": "d",
+          "text": "R"
+        },
+        {
+          "id": "e",
+          "text": "S"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q90",
+      "number": 90,
+      "section": "reasoning",
+      "groupId": "grp_two_row_86_90",
+      "type": "mcq",
+      "text": "Who faces T?",
+      "options": [
+        {
+          "id": "a",
+          "text": "E"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "B"
+        },
+        {
+          "id": "d",
+          "text": "G"
+        },
+        {
+          "id": "e",
+          "text": "C"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q91",
+      "number": 91,
+      "section": "reasoning",
+      "groupId": "grp_age_year_91_95",
+      "type": "mcq",
+      "text": "Who is the eldest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P"
+        },
+        {
+          "id": "b",
+          "text": "U"
+        },
+        {
+          "id": "c",
+          "text": "R"
+        },
+        {
+          "id": "d",
+          "text": "T"
+        },
+        {
+          "id": "e",
+          "text": "V"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q92",
+      "number": 92,
+      "section": "reasoning",
+      "groupId": "grp_age_year_91_95",
+      "type": "mcq",
+      "text": "How many people are younger than V?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Three"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "One"
+        },
+        {
+          "id": "e",
+          "text": "Five"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q93",
+      "number": 93,
+      "section": "reasoning",
+      "groupId": "grp_age_year_91_95",
+      "type": "mcq",
+      "text": "Who is exactly in the middle in the age order?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P"
+        },
+        {
+          "id": "b",
+          "text": "S"
+        },
+        {
+          "id": "c",
+          "text": "V"
+        },
+        {
+          "id": "d",
+          "text": "U"
+        },
+        {
+          "id": "e",
+          "text": "Q"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q94",
+      "number": 94,
+      "section": "reasoning",
+      "groupId": "grp_age_year_91_95",
+      "type": "mcq",
+      "text": "In which year was S born?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1972"
+        },
+        {
+          "id": "b",
+          "text": "1980"
+        },
+        {
+          "id": "c",
+          "text": "1985"
+        },
+        {
+          "id": "d",
+          "text": "1990"
+        },
+        {
+          "id": "e",
+          "text": "1968"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q95",
+      "number": 95,
+      "section": "reasoning",
+      "groupId": "grp_age_year_91_95",
+      "type": "mcq",
+      "text": "How many people are younger than Q?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Two"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "Zero"
+        },
+        {
+          "id": "e",
+          "text": "Four"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q96",
+      "number": 96,
+      "section": "reasoning",
+      "groupId": "grp_circular_96_100",
+      "type": "mcq",
+      "text": "Who sits to the immediate left of the person from Delhi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "F (Surat)"
+        },
+        {
+          "id": "b",
+          "text": "C (Pune)"
+        },
+        {
+          "id": "c",
+          "text": "E (Kolkata)"
+        },
+        {
+          "id": "d",
+          "text": "B (Mumbai)"
+        },
+        {
+          "id": "e",
+          "text": "G (Jaipur)"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q97",
+      "number": 97,
+      "section": "reasoning",
+      "groupId": "grp_circular_96_100",
+      "type": "mcq",
+      "text": "Who sits third to the right of E?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "F"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "G"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q98",
+      "number": 98,
+      "section": "reasoning",
+      "groupId": "grp_circular_96_100",
+      "type": "mcq",
+      "text": "Counting clockwise from B, how many people sit between B and F?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Two"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "Four"
+        },
+        {
+          "id": "e",
+          "text": "Zero"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q99",
+      "number": 99,
+      "section": "reasoning",
+      "groupId": "grp_circular_96_100",
+      "type": "mcq",
+      "text": "Who sits second to the left of D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "F"
+        },
+        {
+          "id": "b",
+          "text": "A (Delhi)"
+        },
+        {
+          "id": "c",
+          "text": "G"
+        },
+        {
+          "id": "d",
+          "text": "B"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q100",
+      "number": 100,
+      "section": "reasoning",
+      "groupId": "grp_circular_96_100",
+      "type": "mcq",
+      "text": "The person from which city sits to the immediate right of A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C (Pune)"
+        },
+        {
+          "id": "b",
+          "text": "E (Kolkata)"
+        },
+        {
+          "id": "c",
+          "text": "F (Surat)"
+        },
+        {
+          "id": "d",
+          "text": "B (Mumbai)"
+        },
+        {
+          "id": "e",
+          "text": "D (Chennai)"
+        }
+      ],
+      "correctAnswer": "c"
+    }
+  ],
+  "validation": {
+    "totalQuestions": 100,
+    "expectedCounts": {
+      "english": 40,
+      "quant": 30,
+      "reasoning": 30
+    },
+    "allQuestionsHaveAnswers": true,
+    "allQuestionsHaveFourOrFiveOptions": true,
+    "groupsLinked": true,
+    "schemaCompliant": true,
+    "incompleteQuestions": []
+  }
+}
