@@ -1,4 +1,26 @@
+
 {
   "version": "1.0",
-  "papers": []
+  "papers": [
+    {
+      "id": "sbi-po-prelims-2025-shift-1",
+      "title": "SBI PO Prelims 2025 - Shift 1",
+      "category": "banking",
+      "year": 2025,
+      "stage": "Preliminary Examination",
+      "paperType": "Full Mock",
+      "totalQuestions": 100,
+      "durationMinutes": 60,
+      "timerType": "sectional",
+      "sectionsCount": 3,
+      "sectionNames": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "filePath": "/mock-papers/banking/sbi-po/Sbi-Po-Prelims-2025-Shift-1.json",
+      "isFeatured": true,
+      "badge": "SBI PO 2025"
+    }
+  ]
 }
