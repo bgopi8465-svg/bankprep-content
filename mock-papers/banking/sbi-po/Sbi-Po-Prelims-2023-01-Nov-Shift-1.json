@@ -1,0 +1,3425 @@
+{
+  "schemaVersion": "1.0.0",
+  "exam": {
+    "id": "sbi-po-prelims-2023-01-nov-shift-1",
+    "name": "SBI PO Prelims",
+    "code": "SBI-PO-PRELIMS",
+    "year": 2023,
+    "shift": 1,
+    "date": "2023-11-01",
+    "slot": "Shift 1 - 01 Nov 2023",
+    "totalQuestions": 100,
+    "totalMarks": 100,
+    "source": "SBI PO Prelims November 2023, Shift 1 Question Paper - Prepp.in memory based"
+  },
+  "configuration": {
+    "totalDurationMinutes": 60,
+    "sectionalTiming": true,
+    "sections": [
+      {
+        "id": "english",
+        "name": "English Language",
+        "order": 1,
+        "questionRange": [
+          1,
+          30
+        ],
+        "totalQuestions": 30,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      },
+      {
+        "id": "quant",
+        "name": "Quantitative Aptitude",
+        "order": 2,
+        "questionRange": [
+          31,
+          65
+        ],
+        "totalQuestions": 35,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      },
+      {
+        "id": "reasoning",
+        "name": "Reasoning Ability",
+        "order": 3,
+        "questionRange": [
+          66,
+          100
+        ],
+        "totalQuestions": 35,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      }
+    ],
+    "markingScheme": {
+      "correct": 1,
+      "incorrect": -0.25,
+      "unattempted": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "grp_rc_pink_1_9",
+      "type": "readingComprehension",
+      "title": "Reading Comprehension - Pink Tax",
+      "section": "english",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7",
+        "q8",
+        "q9"
+      ],
+      "passage": "Pink Tax is commonly used to describe a situation wherein things associated with women are priced higher than those with men. Generally speaking, women pay more than males for similar items. The pink tax is not enforced by the government but by the businesses selling the products. According to experts, the pricing disparity is due to market forces. The pink tax has long imposed an economic burden on women around the world—especially since women continue to earn less than men.\n\nAccording to a study _________ the New York City Department of Consumer Affairs in 2015, women's products are typically more expensive than men's without a proper reason. The study concluded that products explicitly marketed for women cost seven per cent more on average than products sold for men. This discrepancy includes apparel, toys, and healthcare products, among other things. The largest discrepancy came to personal care/hygiene products, where women's products cost 13 per cent more than men's.\n\nSeveral countries have investigated the pink tax, including Argentina, France, Germany, the UK, Australia, and Italy. For example, in the UK, it was found that women and girls were being charged, on average, 37 per cent more for toys, cosmetics, and clothes than their male counterparts. In the UK, girls' school uniforms were also 12 per cent more expensive than boys' uniforms. In Singapore, a check by the Sunday Times on 10 companies found that women pay more for some products and services, such as dry cleaning and razors, offered by around half of these companies. Additionally, women in Singapore have to pay more premiums for Careshield Life, a national long-term care insurance scheme introduced by the government.\n\nExamples of pink tax in India include salon services, personal care goods such as shampoos, soaps, and deodorants, as well as clothing, toys, and accessories such as jewelry. Presently, women are heavily exploited by vegan products and non-animal-tested cosmetics that are significantly more expensive, a form of taxation.",
+      "source": "SBI PO Prelims Nov 2023 Shift 1"
+    },
+    {
+      "id": "grp_para_26_30",
+      "type": "paraJumble",
+      "title": "Para-Jumble - Influencer Marketing",
+      "section": "english",
+      "questionIds": [
+        "q26",
+        "q27",
+        "q28",
+        "q29",
+        "q30"
+      ],
+      "sentences": [
+        {
+          "id": "A",
+          "text": "However, the influencer is not a buzzword anymore. Considering macro and celeb influencers, today's newgen celebs, these individuals"
+        },
+        {
+          "id": "B",
+          "text": "The rise of social media has certainly revolutionised various aspects, including how we connect, share, and consume information."
+        },
+        {
+          "id": "C",
+          "text": "The emergence of influencers is one of the most significant changes brought about by social media in the realm of marketing."
+        },
+        {
+          "id": "D",
+          "text": "Furthermore, with their substantial online followings and persuasive skills, they have emerged as critical players in determining consumers' buying behaviour"
+        },
+        {
+          "id": "E",
+          "text": "Can significantly impact the psychology of potential consumers through their recommendations, opinions, and ideas, thereby shaping their purchasing decisions."
+        }
+      ],
+      "correctOrder": [
+        "B",
+        "C",
+        "A",
+        "E",
+        "D"
+      ]
+    },
+    {
+      "id": "grp_di_museum_45_50",
+      "type": "dataInterpretation",
+      "subType": "lineGraphAndTable",
+      "title": "Museum Visitors - Line Graph + Table (Museums A-D)",
+      "section": "quant",
+      "questionIds": [
+        "q45",
+        "q46",
+        "q47",
+        "q48",
+        "q49",
+        "q50"
+      ],
+      "data": {
+        "description": "Line graph represents the total number of population visited in Museum A, B and C on Sunday. Table represents the number of male visited in Museum out of total population. Museum Number of Male out of total People who visited: A 2/9, B 11/13, C 13/16, D 19/50. Note: Exact line graph values for total visitors in A,B,C,D were not legible in extracted PDF; questions reference derived male/female counts.",
+        "table": [
+          {
+            "museum": "A",
+            "maleFraction": "2/9"
+          },
+          {
+            "museum": "B",
+            "maleFraction": "11/13"
+          },
+          {
+            "museum": "C",
+            "maleFraction": "13/16"
+          },
+          {
+            "museum": "D",
+            "maleFraction": "19/50"
+          }
+        ],
+        "incomplete": true,
+        "note": "Line graph totals missing in source extract; retain group for engine compatibility"
+      }
+    },
+    {
+      "id": "grp_tab_pesto_51_56",
+      "type": "dataInterpretation",
+      "subType": "tabular",
+      "title": "Shop Pesto - Articles Sold by A,B,C",
+      "section": "quant",
+      "questionIds": [
+        "q51",
+        "q52",
+        "q53",
+        "q54",
+        "q55",
+        "q56"
+      ],
+      "data": {
+        "description": "Tabular graph shows the number of article sold by shop Pesto. Months: Average of article sold by (A,B & C), % of article sold by A out of total, Article sold by C",
+        "table": [
+          {
+            "month": "April",
+            "averageABC": 100,
+            "percentA": 20,
+            "articleC": 160
+          },
+          {
+            "month": "May",
+            "averageABC": 120,
+            "percentA": 25,
+            "articleC": 70
+          },
+          {
+            "month": "June",
+            "averageABC": 72,
+            "percentA": 50,
+            "articleC": 65
+          }
+        ],
+        "derived": "Total = Average*3. A = percentA% of Total. B = Total - A - C"
+      }
+    },
+    {
+      "id": "grp_products_62_65",
+      "type": "dataInterpretation",
+      "subType": "caselet",
+      "title": "Products Sold by A and B (2015-2017)",
+      "section": "quant",
+      "questionIds": [
+        "q62",
+        "q63",
+        "q64",
+        "q65"
+      ],
+      "data": {
+        "description": "The number of products sold by A in 2015 is 1.5 times of the number of products sold by B in that year. Number of Products sold by A in 2017 is 14 more than that in 2015. In 2016 A sold 10% less products as compared to 2017. The Ratio of number of products sold by B in 2015 to that in 2017 is 3:8. Total number of products sold by B in all the three years is 1 less than the number of products sold by A and B together in 2017. The number of products sold by B in 2016 is 1 more than that sold by it in 2015."
+      }
+    },
+    {
+      "id": "grp_floor_70_74",
+      "type": "puzzle",
+      "subType": "floor",
+      "title": "Ten Floors Puzzle - N,A,J,B,H,F,G,D,E,C",
+      "section": "reasoning",
+      "questionIds": [
+        "q70",
+        "q71",
+        "q72",
+        "q73",
+        "q74"
+      ],
+      "puzzleText": "Ten persons live on different floors in the same building. The building has ten floors ground floor is numbered 1 and topmost floor is numbered 10. N lives on an even number floor above the sixth floor. Only two persons live between N and A. Only three floors are there between A and J who does not live on the ninth floor. More than four floors between J and B who lives below N. Only three persons live between B and H. The number of floors between N and H same as the number of floors between J and F. G lives on the prime number floor. G lives below D and above E. C does not live on the sixth floor."
+    },
+    {
+      "id": "grp_family_75_77",
+      "type": "puzzle",
+      "subType": "family",
+      "title": "Family Tree - Eight Members A,B,C,D,E,F,G,H",
+      "section": "reasoning",
+      "questionIds": [
+        "q75",
+        "q76",
+        "q77"
+      ],
+      "puzzleText": "Eight members A, B, C, D, E, F, G and H are in a family related to each other. Only three married couples are there in the family and there are four generations in the family. Some are males and some are females. The number of females is more than the number of males in the family. Either single or both parents are alive in the family. H is the sister-in-law of G, who is the spouse of E. F is the daughter of E and mother of D, who is the granddaughter of G. E is the daughter-in-law of C who is the husband of A. D and H are not married."
+    },
+    {
+      "id": "grp_date_country_79_83",
+      "type": "puzzle",
+      "subType": "dateMonthCountry",
+      "title": "Meeting Dates - Countries Russia, Canada, Japan, Netherlands, France, China",
+      "section": "reasoning",
+      "questionIds": [
+        "q79",
+        "q80",
+        "q81",
+        "q82",
+        "q83"
+      ],
+      "puzzleText": "Six persons - P, Q, R, S, T, and U visited different countries - Russia, Canada, Japan, Netherlands, France, and China. They attended a meeting on two different dates either 11 or 22 of three different months - September, October, and November of the same year. P attended two persons before the one who visited Japan. At least three persons attended after P. Only two persons attended between P and S. The number of persons who attended before S is the same as the number of persons who attended the meeting after the one who visited Russia. U attended immediately after the one who visited China. U neither visited Japan nor the Netherlands. R attended on an odd number date but after P. T neither visited Russia nor Japan. Q attended immediately before the one who visited France."
+    },
+    {
+      "id": "grp_fruit_circular_84_88",
+      "type": "seating",
+      "subType": "circular",
+      "title": "Circular Table - Fruits Mango, Apple, Orange, Banana, Guava, Grapes",
+      "section": "reasoning",
+      "questionIds": [
+        "q84",
+        "q85",
+        "q86",
+        "q87",
+        "q88"
+      ],
+      "puzzleText": "Six persons viz. A, B, C, D, E, and F are sitting around a circular table facing towards the center. All of them like different fruits viz. Mango, Apple, Orange, Banana, Guava, and Grapes. Only one person sits between the one who likes Grapes and Banana. The one who likes Guava doesn't sit adjacent to the one who likes Mango. E sits facing towards D, who likes Apple. B sits second to the right of C, who likes Mango. The one who likes Apple doesn't sit adjacent to the one who likes Grapes. Neither B nor E likes Guava. The person who likes Grapes sits immediately right of the one who sits opposite to F."
+    },
+    {
+      "id": "grp_code_89_92",
+      "type": "codingDecoding",
+      "title": "Code Language - work is worship",
+      "section": "reasoning",
+      "questionIds": [
+        "q89",
+        "q90",
+        "q91",
+        "q92"
+      ],
+      "data": {
+        "codes": [
+          "work is worship is coded as jk rt pq",
+          "work hard always is coded as jk mn uv",
+          "always do worship is coded as uv st pq",
+          "hard time passes is coded as mn ab ef"
+        ],
+        "solution": {
+          "work": "jk",
+          "is": "rt",
+          "worship": "pq",
+          "hard": "mn",
+          "always": "uv",
+          "do": "st",
+          "time/passes": "ab/ef"
+        }
+      }
+    },
+    {
+      "id": "grp_weight_93_95",
+      "type": "puzzle",
+      "subType": "comparison",
+      "title": "Weight Comparison - Seven Boys P,Q,R,S,T,U,V",
+      "section": "reasoning",
+      "questionIds": [
+        "q93",
+        "q94",
+        "q95"
+      ],
+      "puzzleText": "Seven boys P, Q, R, S, T, U and V have different weights. V is heavier than Q. P is heavier than only three people. Q is heavier than P. T is heavier than S but lighter than R. U is heavier than R but lighter than Q."
+    },
+    {
+      "id": "grp_row_96_100",
+      "type": "seating",
+      "subType": "linearRowNorthSouth",
+      "title": "Eight Persons Row - E,F,G,H,I,J,K,L facing North/South",
+      "section": "reasoning",
+      "questionIds": [
+        "q96",
+        "q97",
+        "q98",
+        "q99",
+        "q100"
+      ],
+      "puzzleText": "Eight person named E, F, G, H, I, J, K and L are sitting in a row. Some of them are facing north and some of them are facing south direction. Not more than two persons sitting next to each other are facing the same direction. E sits 2nd to the right of F. F and J face the same direction. The number of persons sitting to the right of G is the same as to the left of H. I faces north. L sits 4th to the right of J and both of them are facing opposite directions. K sits 3rd to the left of L. H sits 2nd to the right of K. Both the immediate neighbors of H face opposite directions."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "section": "english",
+      "type": "mcq",
+      "text": "What’s the synonym of the word ‘since’ as used in the passage? Pink Tax is commonly used to describe... especially since women continue to earn less than men.",
+      "options": [
+        {
+          "id": "a",
+          "text": "until"
+        },
+        {
+          "id": "b",
+          "text": "before"
+        },
+        {
+          "id": "c",
+          "text": "as"
+        },
+        {
+          "id": "d",
+          "text": "till"
+        },
+        {
+          "id": "e",
+          "text": "therefore"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "section": "english",
+      "type": "mcq",
+      "text": "Select the most appropriate synonym of the given word. Form",
+      "options": [
+        {
+          "id": "a",
+          "text": "Damage"
+        },
+        {
+          "id": "b",
+          "text": "Demolish"
+        },
+        {
+          "id": "c",
+          "text": "Collapse"
+        },
+        {
+          "id": "d",
+          "text": "Type"
+        },
+        {
+          "id": "e",
+          "text": "Scatter"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which of the following options would be suitable for the blank given in the passage? According to a study _________ the New York City Department of Consumer Affairs in 2015, women's products are typically more expensive...",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "by"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        },
+        {
+          "id": "e",
+          "text": "with"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which of the following statements is true as per the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The pink tax is enforced by the government but not by the businesses selling the products."
+        },
+        {
+          "id": "b",
+          "text": "Women in Singapore have to pay less premiums for Careshield Life, a national long-term care insurance scheme introduced by the government."
+        },
+        {
+          "id": "c",
+          "text": "Several countries have investigated the pink tax, including Argentina, France, Germany, the UAE, Australia, and Italy."
+        },
+        {
+          "id": "d",
+          "text": "Some of the products that are included under the pink tax in India are salon services, personal care goods such as shampoos, soaps, and deodorants, as well as clothing, toys, and accessories such as jewelry."
+        },
+        {
+          "id": "e",
+          "text": "As per the study by the New York City Department of Consumer Affairs in 2015-2016, women's products are typically more expensive than men's without a proper reason."
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "section": "english",
+      "type": "mcq",
+      "text": "Find true statement(s) from the following: (A) The discrepancy in tax includes apparel, toys, and healthcare products, among other things. (B) The pink tax has long imposed an economic burden on women and men around the world. (C) Currently, women bear a significant financial burden due to the high costs of vegan products and non-animal-tested cosmetics, which can be considered a type of economic imposition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A and B are true"
+        },
+        {
+          "id": "b",
+          "text": "C and A are true"
+        },
+        {
+          "id": "c",
+          "text": "Only C is true"
+        },
+        {
+          "id": "d",
+          "text": "Only B is true"
+        },
+        {
+          "id": "e",
+          "text": "All are true."
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "section": "english",
+      "type": "mcq",
+      "text": "According to the passage, what is the primary reason for the pricing inequality known as the \"pink tax\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The pricing disparity is primarily a result of government regulations that enforce gender-based pricing on products marketed to women."
+        },
+        {
+          "id": "b",
+          "text": "Market forces, driven by supply and demand dynamics, are the primary factors behind the pricing disparity known as the \"pink tax.\""
+        },
+        {
+          "id": "c",
+          "text": "Gender-based taxation, imposed by governments, directly contributes to the higher prices of products associated with women."
+        },
+        {
+          "id": "d",
+          "text": "International trade agreements have established pricing guidelines that result in women's products being priced higher than men's."
+        },
+        {
+          "id": "e",
+          "text": "Consumer preferences, influenced by advertising and social factors, play the central role in the pricing disparity termed the \"pink tax.\""
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which of the following expresses the same meaning of the word given in bold? in the UK, it was found that women and girls were being charged",
+      "options": [
+        {
+          "id": "a",
+          "text": "confronted"
+        },
+        {
+          "id": "b",
+          "text": "imposed"
+        },
+        {
+          "id": "c",
+          "text": "limited"
+        },
+        {
+          "id": "d",
+          "text": "absolved"
+        },
+        {
+          "id": "e",
+          "text": "altered"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "section": "english",
+      "type": "mcq",
+      "text": "Based on the study by the New York City Department of Consumer Affairs, where was the largest product pricing discrepancy between men and women observed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Clothing"
+        },
+        {
+          "id": "b",
+          "text": "Toys"
+        },
+        {
+          "id": "c",
+          "text": "Personal care/hygiene products"
+        },
+        {
+          "id": "d",
+          "text": "Accessories such as jewelry"
+        },
+        {
+          "id": "e",
+          "text": "Vegan products"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "section": "english",
+      "type": "mcq",
+      "text": "According to the information in the passage, what is the \"Pink Tax\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It's an additional tax charged by the government on women's products."
+        },
+        {
+          "id": "b",
+          "text": "It's inequality in the amount payable for insurance based on gender."
+        },
+        {
+          "id": "c",
+          "text": "It's a taxation form enforced by businesses where female products cost more than their male counterparts."
+        },
+        {
+          "id": "d",
+          "text": "It's a type of business tax focused only on clothing, toys, and accessories."
+        },
+        {
+          "id": "e",
+          "text": "It's a tax levied on vegan and non-animal-tested cosmetics."
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_rc_pink_1_9"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "section": "english",
+      "type": "mcq",
+      "text": "Direction: The given sentence is divided into four parts: A, B, C, and D. Choose the part that contains an error. People develop a attachment (A)/ to a city because they find (B)/ a sense of belonging (C)/ within like-minded individuals. (D)/ No error (E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "section": "english",
+      "type": "mcq",
+      "text": "Direction: The given sentence is divided into four parts: A, B, C, and D. Choose the part that contains an error. These are just small (A)/ alterations with our lifestyle (B)/ that will help us achieve (C)/ that perfect body. (D)/ No error (E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "section": "english",
+      "type": "mcq",
+      "text": "Despite their differing (A) viewpoints on the matter, (B) the team of experts were (C) able to reach an agreement. (D) No error (E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "section": "english",
+      "type": "mcq",
+      "text": "When he was arriving (A) at the party last night, (B) she said she loved the gift, (C) but now she regrets it deeply. (D) No error (E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "section": "english",
+      "type": "mcq",
+      "text": "Constant exposure to noise (A) can cause increased stress levels (B) and anxiety, irritability, (C) and cognitive impairment. (D) No error (E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "section": "english",
+      "type": "mcq",
+      "text": "Directions: In the given sentence, four words, given in bold are marked as (A), (B), (C) and (D). These words may or may not be placed in their right places. As data and technology play a effectively (A) role in the delivery (B) of services, human development systems should ensure (C) they are crucial (D) used.",
+      "options": [
+        {
+          "id": "a",
+          "text": "DBCA"
+        },
+        {
+          "id": "b",
+          "text": "BCAD"
+        },
+        {
+          "id": "c",
+          "text": "CABD"
+        },
+        {
+          "id": "d",
+          "text": "ABDC"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "section": "english",
+      "type": "mcq",
+      "text": "Pandemics, economic succession (A) and rapid (B) weather events were once tail-end risks, but all three have hit South Asia in extreme (C) slumps (D) since 2020.",
+      "options": [
+        {
+          "id": "a",
+          "text": "DBCA"
+        },
+        {
+          "id": "b",
+          "text": "ACBD"
+        },
+        {
+          "id": "c",
+          "text": "DCBA"
+        },
+        {
+          "id": "d",
+          "text": "BADC"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "section": "english",
+      "type": "mcq",
+      "text": "The aim of the dispatch (A) is not to reduce quality (B), but to increase and improve the automation (C) of delivery and reduce the time of manpower (D).",
+      "options": [
+        {
+          "id": "a",
+          "text": "BADC"
+        },
+        {
+          "id": "b",
+          "text": "CBDA"
+        },
+        {
+          "id": "c",
+          "text": "CDBA"
+        },
+        {
+          "id": "d",
+          "text": "BDAC"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "section": "english",
+      "type": "mcq",
+      "text": "The eligible (A) number of employees who will be exercised (B) under the new order will only be known after exact (C) employees have covered (D) the option.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ADCB"
+        },
+        {
+          "id": "b",
+          "text": "CBAD"
+        },
+        {
+          "id": "c",
+          "text": "DCBA"
+        },
+        {
+          "id": "d",
+          "text": "CDAB"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "section": "english",
+      "type": "mcq",
+      "text": "Directions: Choose the most appropriate word to fill in the given blank. The Budget aims to fulfil the long-term _______ goals of the country along with being the world’s fastest-growing large economy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "implausible"
+        },
+        {
+          "id": "b",
+          "text": "challenging"
+        },
+        {
+          "id": "c",
+          "text": "obnoxious"
+        },
+        {
+          "id": "d",
+          "text": "sustainable"
+        },
+        {
+          "id": "e",
+          "text": "untenable"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "section": "english",
+      "type": "mcq",
+      "text": "For youngsters, smartwatches are a way to _______ another accessory, for working professionals they are a watch-cum-reminder machine, and for the elderly, they are used to monitor vitals.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Recruit"
+        },
+        {
+          "id": "b",
+          "text": "Flaunt"
+        },
+        {
+          "id": "c",
+          "text": "Efface"
+        },
+        {
+          "id": "d",
+          "text": "Impel"
+        },
+        {
+          "id": "e",
+          "text": "Replace"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "section": "english",
+      "type": "mcq",
+      "text": "He is an arrogant businessman and he likes to ______ his net worth, it makes him seem like he has a lot of money in his bank account.",
+      "options": [
+        {
+          "id": "a",
+          "text": "exaggerate"
+        },
+        {
+          "id": "b",
+          "text": "propel"
+        },
+        {
+          "id": "c",
+          "text": "compensate"
+        },
+        {
+          "id": "d",
+          "text": "understate"
+        },
+        {
+          "id": "e",
+          "text": "trivialize"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "section": "english",
+      "type": "mcq",
+      "text": "Today, our class teacher _______ the importance of exercise and fresh fruit and vegetables in the diet.",
+      "options": [
+        {
+          "id": "a",
+          "text": "imposed"
+        },
+        {
+          "id": "b",
+          "text": "impeded"
+        },
+        {
+          "id": "c",
+          "text": "emphasized"
+        },
+        {
+          "id": "d",
+          "text": "confirmed"
+        },
+        {
+          "id": "e",
+          "text": "depreciated"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "section": "english",
+      "type": "mcq",
+      "text": "In the following question, two columns are given containing three phrases each. Column 1: (A) He explains that when scales are confiscated (B) We have been conducting training and (C) The research, published in the Journal of the. Column 2: (P) Skillbuilding workshops for new agencies (Q) It is important to develop protocols (R) American Medical Association is interesting",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-P and C-R"
+        },
+        {
+          "id": "b",
+          "text": "B-P and C-P"
+        },
+        {
+          "id": "c",
+          "text": "C-R and A-Q"
+        },
+        {
+          "id": "d",
+          "text": "B-P and C-R"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "section": "english",
+      "type": "mcq",
+      "text": "Column 1: (A) Studies of the coronavirus are largely (B) This is a complex question to which there is, (C) The judgment declared. Column 2: (P) focusing on its 'spike' protein (Q) so far, no clear answer. (R) the Maratha reservation unconstitutional",
+      "options": [
+        {
+          "id": "a",
+          "text": "A-Q"
+        },
+        {
+          "id": "b",
+          "text": "B-Q"
+        },
+        {
+          "id": "c",
+          "text": "C-P"
+        },
+        {
+          "id": "d",
+          "text": "A-P, C-R and B-Q"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "section": "english",
+      "type": "mcq",
+      "text": "A word and three sentences that use the word are given below. Determine in which of the following sentences is the word used correctly. STATE 1. The Prime Minister has stated in his speech that our country will be a five trillion economy. 2. I'm too nervous to stop in this horrid state where it never ceases raining. 3. it is now illegal in every state with Louisiana being the last to outlaw it in 2008.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both 1 & 2"
+        },
+        {
+          "id": "b",
+          "text": "Both 2 & 3"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 & 3"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        },
+        {
+          "id": "e",
+          "text": "No of the above"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "section": "english",
+      "type": "mcq",
+      "text": "Below, you will find a set of five sentences. You need to arrange these sentences in the correct sequence. A. However, the influencer is not a buzzword anymore... B. The rise of social media has certainly revolutionised... C. The emergence of influencers is one of the most significant changes... D. Furthermore, with their substantial online followings... E. Can significantly impact the psychology of potential consumers... Which will be the FIRST sentence after rearrangement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "D"
+        },
+        {
+          "id": "d",
+          "text": "C"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_para_26_30"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which will be the SECOND sentence after rearrangement? Same paragraph as Q26",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "E"
+        },
+        {
+          "id": "d",
+          "text": "B"
+        },
+        {
+          "id": "e",
+          "text": "D"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_para_26_30"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which will be the THIRD sentence after rearrangement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_para_26_30"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which will be the FOURTH sentence after rearrangement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "B"
+        },
+        {
+          "id": "d",
+          "text": "E"
+        },
+        {
+          "id": "e",
+          "text": "A"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_para_26_30"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which will be the LAST sentence after rearrangement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "B"
+        },
+        {
+          "id": "d",
+          "text": "C"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_para_26_30"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A invested Rs. 15000 and B invested Rs. (15000 + Y) in a business. After 4 months B withdraw 40% of his investment. If the total profit earned at the end of the year is Rs. 4700 and the profit share of B is Rs. 2200. Find the value of 2Y.",
+      "options": [
+        {
+          "id": "a",
+          "text": "210000/23"
+        },
+        {
+          "id": "b",
+          "text": "105000/23"
+        },
+        {
+          "id": "c",
+          "text": "107000/23"
+        },
+        {
+          "id": "d",
+          "text": "205000/23"
+        },
+        {
+          "id": "e",
+          "text": "115000/23"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A person rows a distance of 20 km upstream and 15 km downstream in a total time of [data missing - original PDF had time value, e.g., 5 hours]. If the speed of the current is 4 km/h, then in how many hours can he row a distance of 64 km upstream? [Question preserved as per PDF; time value illegible in extract, answer as per key]",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 1/5 hours (Option 1 per key)"
+        },
+        {
+          "id": "b",
+          "text": "4 2/3 hours"
+        },
+        {
+          "id": "c",
+          "text": "5 1/2 hours"
+        },
+        {
+          "id": "d",
+          "text": "4 1/4 hours"
+        },
+        {
+          "id": "e",
+          "text": "4 1/5 hours"
+        }
+      ],
+      "correctAnswer": "a",
+      "incomplete": true,
+      "note": "Total time for upstream+downstream missing in extracted text"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "section": "quant",
+      "type": "mcq",
+      "text": "P, Q and R together can do a piece of work in 16(4/11) days. P and Q together can do the same work in 20 days. In how many days will 'R' alone finish the 60% of the work?",
+      "options": [
+        {
+          "id": "a",
+          "text": "51 days"
+        },
+        {
+          "id": "b",
+          "text": "59 days"
+        },
+        {
+          "id": "c",
+          "text": "54 days"
+        },
+        {
+          "id": "d",
+          "text": "53 days"
+        },
+        {
+          "id": "e",
+          "text": "50 days"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "section": "quant",
+      "type": "mcq",
+      "text": "In a classroom consisting of boys and girls, the average marks obtained by the boys is 90. If the average of the whole class is 92, and the ratio of the number of boys to that of girls is 3:2, what is the average marks scored by the girls?",
+      "options": [
+        {
+          "id": "a",
+          "text": "97"
+        },
+        {
+          "id": "b",
+          "text": "94"
+        },
+        {
+          "id": "c",
+          "text": "96"
+        },
+        {
+          "id": "d",
+          "text": "95"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Vessel 'A' contains a total of 45 liters of a mixture of milk and water such that milk is 80% of water. Some quantity of milk is taken out from the vessel and the same quantity of water is also taken out and these are added to honey in vessel 'B' to form a mixture 'P', which contains 4 liters of honey. If mixture 'P' contains 40% of water, then in total what percent of the mixture is taken out from vessel 'A'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Between 24% to 28%"
+        },
+        {
+          "id": "b",
+          "text": "Between 28% to 32%"
+        },
+        {
+          "id": "c",
+          "text": "Between 32% to 36%"
+        },
+        {
+          "id": "d",
+          "text": "Between 36% to 40%"
+        },
+        {
+          "id": "e",
+          "text": "Between 40% to 44%"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The average cost price of two shirts A and B is Rs. 400 and the profit percent on these shirts are 10% and 20% respectively. If the total selling price of these shirts is Rs. 928, then find the cost price of shirt B.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 360"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 320"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 480"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 420"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Sunil invested Rs. x in scheme A at a rate of 15% per annum for 2 years at Simple Interest and invested Rs. (x + 500) in scheme B at the rate of 12% per annum for 2 years at Interest [type not specified in extract, assumed Simple/Compound per original]. If the total interest received by him at the end of 2 years is Rs. 4224 then find the value of x.",
+      "options": [
+        {
+          "id": "a",
+          "text": "8200"
+        },
+        {
+          "id": "b",
+          "text": "7600"
+        },
+        {
+          "id": "c",
+          "text": "7200"
+        },
+        {
+          "id": "d",
+          "text": "7800"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The length and breadth of a rectangle are in the ratio 3:2. If the length is increased by 5 m keeping the breadth same, the new area of rectangle is 2600 m2. What is the perimeter of the original rectangle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "320 m"
+        },
+        {
+          "id": "b",
+          "text": "300 m"
+        },
+        {
+          "id": "c",
+          "text": "295 m"
+        },
+        {
+          "id": "d",
+          "text": "200 m"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What should come in place of question Mark ‘?’ in the following number series? 300, ?, 148, 221, 441, 1101.5",
+      "options": [
+        {
+          "id": "a",
+          "text": "115.5"
+        },
+        {
+          "id": "b",
+          "text": "150.5"
+        },
+        {
+          "id": "c",
+          "text": "149"
+        },
+        {
+          "id": "d",
+          "text": "151"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What should come in place of question Mark ‘?’ in the following number series? 25, ?, 256, 476, 745, 1050",
+      "options": [
+        {
+          "id": "a",
+          "text": "60"
+        },
+        {
+          "id": "b",
+          "text": "100"
+        },
+        {
+          "id": "c",
+          "text": "125"
+        },
+        {
+          "id": "d",
+          "text": "65"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What should come in place of question Mark ‘?’ in the following number series? 68, ?, 407, 470, 496, 503",
+      "options": [
+        {
+          "id": "a",
+          "text": "283"
+        },
+        {
+          "id": "b",
+          "text": "229"
+        },
+        {
+          "id": "c",
+          "text": "217"
+        },
+        {
+          "id": "d",
+          "text": "253"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What should come in place of question Mark ‘?’ in the following number series? 54, 67, 50, 63, 46, ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "33"
+        },
+        {
+          "id": "b",
+          "text": "59"
+        },
+        {
+          "id": "c",
+          "text": "63"
+        },
+        {
+          "id": "d",
+          "text": "61"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What should come in place of question Mark ‘?’ in the following number series? 60, ?, 63.6, 70.8, 99.6, 243.6",
+      "options": [
+        {
+          "id": "a",
+          "text": "60.8"
+        },
+        {
+          "id": "b",
+          "text": "61.2"
+        },
+        {
+          "id": "c",
+          "text": "60.5"
+        },
+        {
+          "id": "d",
+          "text": "62.2"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What should come in place of question Mark ‘?’ in the following number series? 15, 34, 57, 86, ?, 170",
+      "options": [
+        {
+          "id": "a",
+          "text": "117"
+        },
+        {
+          "id": "b",
+          "text": "123"
+        },
+        {
+          "id": "c",
+          "text": "125"
+        },
+        {
+          "id": "d",
+          "text": "121"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Line graph represents total number of population visited in Museum A, B and C on Sunday. Table represents number of male visited out of total: A 2/9, B 11/13, C 13/16, D 19/50. If the number of male and number in Museum E are 7.69% more than the number of male who visited in Museum C and the number of female are 300 less than the number of Male visited in Museum B. Then find the difference between the number of male and female who visited Museum E?",
+      "options": [
+        {
+          "id": "a",
+          "text": "600"
+        },
+        {
+          "id": "b",
+          "text": "560"
+        },
+        {
+          "id": "c",
+          "text": "628"
+        },
+        {
+          "id": "d",
+          "text": "678"
+        },
+        {
+          "id": "e",
+          "text": "700"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_di_museum_45_50"
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Museum A is in village Rampur where the number of population was 1,24,000 and the ratio of male and female 15:16 Then, find the percentage of total female on Sunday in Rampur village to the total number male in Museum B?",
+      "options": [
+        {
+          "id": "a",
+          "text": "More than 4043%"
+        },
+        {
+          "id": "b",
+          "text": "Between 3508% to 4040%"
+        },
+        {
+          "id": "c",
+          "text": "Less than 3886%"
+        },
+        {
+          "id": "d",
+          "text": "Both option 1 and 3"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_di_museum_45_50"
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What are the difference between male who visited museum B and C together to the average of female who visited museum A, B and C together? (approx value)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1962"
+        },
+        {
+          "id": "b",
+          "text": "1700"
+        },
+        {
+          "id": "c",
+          "text": "1882"
+        },
+        {
+          "id": "d",
+          "text": "1688"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_di_museum_45_50"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "section": "quant",
+      "type": "mcq",
+      "text": "If the cost price of male ticket and the female ticket Rs. X and Rs.(X-5). And the museum B get the revenue Rs. 94720. Find the total revenue getting from male ticket from museum A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "18900"
+        },
+        {
+          "id": "b",
+          "text": "20800"
+        },
+        {
+          "id": "c",
+          "text": "20600"
+        },
+        {
+          "id": "d",
+          "text": "18700"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_di_museum_45_50"
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Find the average number of visitors in B, C and D ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1176"
+        },
+        {
+          "id": "b",
+          "text": "2096"
+        },
+        {
+          "id": "c",
+          "text": "1556"
+        },
+        {
+          "id": "d",
+          "text": "1948"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_di_museum_45_50"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The number of population of village Mowar was increased by p% on Sunday due to the number visitors visited at museum D. On sunday there were total female 30% of the population on that day and the number of male population on that day was 4200. Find the value of P?",
+      "options": [
+        {
+          "id": "a",
+          "text": "200"
+        },
+        {
+          "id": "b",
+          "text": "150"
+        },
+        {
+          "id": "c",
+          "text": "300"
+        },
+        {
+          "id": "d",
+          "text": "100"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_di_museum_45_50"
+    },
+    {
+      "id": "q51",
+      "number": 51,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Tabular graph shows the number of article sold by shop Pesto. Months Average of article sold by(A,B & C) % of article sold by A out of total Article sold by C April 100 20% 160 May 120 25% 70 June 72 50% 65 Find the difference between the number of article sold by C sold by pesto in June and April months?",
+      "options": [
+        {
+          "id": "a",
+          "text": "86"
+        },
+        {
+          "id": "b",
+          "text": "55"
+        },
+        {
+          "id": "c",
+          "text": "95"
+        },
+        {
+          "id": "d",
+          "text": "42"
+        },
+        {
+          "id": "e",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_tab_pesto_51_56"
+    },
+    {
+      "id": "q52",
+      "number": 52,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The price of article sold by B is Rs. 180 and in the month of June they offer discount of p% and the company will get Rs. 12420. Find the p?",
+      "options": [
+        {
+          "id": "a",
+          "text": "40"
+        },
+        {
+          "id": "b",
+          "text": "50"
+        },
+        {
+          "id": "c",
+          "text": "75"
+        },
+        {
+          "id": "d",
+          "text": "60"
+        },
+        {
+          "id": "e",
+          "text": "35"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_tab_pesto_51_56"
+    },
+    {
+      "id": "q53",
+      "number": 53,
+      "section": "quant",
+      "type": "mcq",
+      "text": "If out of the total number of products sold by A in june, 25% were returned due to defects, then find the ratio of non defective products sold by A in june and the number of products sold by C in April?",
+      "options": [
+        {
+          "id": "a",
+          "text": "25:31"
+        },
+        {
+          "id": "b",
+          "text": "27:32"
+        },
+        {
+          "id": "c",
+          "text": "21:32"
+        },
+        {
+          "id": "d",
+          "text": "8:5"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_tab_pesto_51_56"
+    },
+    {
+      "id": "q54",
+      "number": 54,
+      "section": "quant",
+      "type": "mcq",
+      "text": "In April, if person B sold two types of products i.e. TV and Refrigerator in the ratio of 7:5, then find the difference between the total number of TVs sold by B in April and total number of products sold by B in June.",
+      "options": [
+        {
+          "id": "a",
+          "text": "50"
+        },
+        {
+          "id": "b",
+          "text": "70"
+        },
+        {
+          "id": "c",
+          "text": "80"
+        },
+        {
+          "id": "d",
+          "text": "55"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_tab_pesto_51_56"
+    },
+    {
+      "id": "q55",
+      "number": 55,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Find the average of number of products sold by B in May and that by C in June ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "116"
+        },
+        {
+          "id": "b",
+          "text": "120"
+        },
+        {
+          "id": "c",
+          "text": "118"
+        },
+        {
+          "id": "d",
+          "text": "124"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_tab_pesto_51_56"
+    },
+    {
+      "id": "q56",
+      "number": 56,
+      "section": "quant",
+      "type": "mcq",
+      "text": "If 1/3rd of the products sold by B in June were sold to females then find the sum of number of products sold by B to males in June and the number of products sold by A in May?",
+      "options": [
+        {
+          "id": "a",
+          "text": "112"
+        },
+        {
+          "id": "b",
+          "text": "108"
+        },
+        {
+          "id": "c",
+          "text": "98"
+        },
+        {
+          "id": "d",
+          "text": "118"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_tab_pesto_51_56"
+    },
+    {
+      "id": "q57",
+      "number": 57,
+      "section": "quant",
+      "type": "mcq",
+      "text": "In the given question, two equations numbered I and II are given. I. x2 + 2x - 35 = 0 II. y2 - 2y - 48 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x < y"
+        },
+        {
+          "id": "c",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relation between x and y can not be established."
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q58",
+      "number": 58,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. x2 - 10x + 16 = 0 II. y2 - 5y - 24 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x < y"
+        },
+        {
+          "id": "c",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relation between x and y can not be established."
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q59",
+      "number": 59,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. x2 – 52x + 51 = 0 II. y2 – 57y + 56 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x < y"
+        },
+        {
+          "id": "c",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relationship between x and y cannot be established"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. x2 – 3x + 2 = 0 II. y2 + 12y + 36 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x < y"
+        },
+        {
+          "id": "c",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relationship between x and y cannot be established"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q61",
+      "number": 61,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. x2 + 2x – 8 = 0 II. y2 – 8y + 12 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x < y"
+        },
+        {
+          "id": "c",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relationship between x and y cannot be established"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q62",
+      "number": 62,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The number of products sold by A in 2015 is 1.5 times of the number of products sold by B in that year. Number of Products sold by A in 2017 is 14 more than that in 2015. In 2016 A sold 10% less products as compared to 2017. The Ratio of number of products sold by B in 2015 to that in 2017 is 3:8. Total number of products sold by B in all the three years is 1 less than the number of products sold by A and B together in 2017. The number of products sold by B in 2016 is 1 more than that sold by it in 2015. In 2017, A and B sold 40% and 64% of their respective products, then find the difference between the number of unsold products of A and B in 2017.",
+      "options": [
+        {
+          "id": "a",
+          "text": "39"
+        },
+        {
+          "id": "b",
+          "text": "18"
+        },
+        {
+          "id": "c",
+          "text": "25"
+        },
+        {
+          "id": "d",
+          "text": "21"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_products_62_65"
+    },
+    {
+      "id": "q63",
+      "number": 63,
+      "section": "quant",
+      "type": "mcq",
+      "text": "If the number of products sold by C in 2017 is 25% more than the number of products sold by A in 2015, then find the sum of number of products sold by C in 2017 and that by B in 2016.",
+      "options": [
+        {
+          "id": "a",
+          "text": "92"
+        },
+        {
+          "id": "b",
+          "text": "104"
+        },
+        {
+          "id": "c",
+          "text": "1101"
+        },
+        {
+          "id": "d",
+          "text": "112"
+        },
+        {
+          "id": "e",
+          "text": "70"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_products_62_65"
+    },
+    {
+      "id": "q64",
+      "number": 64,
+      "section": "quant",
+      "type": "mcq",
+      "text": "In 2016, if 40% of the number of products sold by A were sold in the local market and rest were transported to outside. Find the total number of products sold by A outside.",
+      "options": [
+        {
+          "id": "a",
+          "text": "27"
+        },
+        {
+          "id": "b",
+          "text": "30"
+        },
+        {
+          "id": "c",
+          "text": "35"
+        },
+        {
+          "id": "d",
+          "text": "25"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_products_62_65"
+    },
+    {
+      "id": "q65",
+      "number": 65,
+      "section": "quant",
+      "type": "mcq",
+      "text": "In 2017, B sold two types of products i.e. type X and type Y. If out of the total products sold by B in 2017, 3/8th were of type Y, then find the ratio of number of products sold by A in 2015 and number of type X products sold by B in 2017?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3:5"
+        },
+        {
+          "id": "b",
+          "text": "3:4"
+        },
+        {
+          "id": "c",
+          "text": "9:10"
+        },
+        {
+          "id": "d",
+          "text": "2:5"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_products_62_65"
+    },
+    {
+      "id": "q66",
+      "number": 66,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many such pairs of letters are in the word “BONAFIDE” which has as many letters between them as there are in the English alphabetical series (both forward and backward)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Three"
+        },
+        {
+          "id": "b",
+          "text": "Four"
+        },
+        {
+          "id": "c",
+          "text": "Five"
+        },
+        {
+          "id": "d",
+          "text": "Six"
+        },
+        {
+          "id": "e",
+          "text": "More than six"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q67",
+      "number": 67,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "If we form a four-letter meaningful word by using the 2nd, 5th, 7th, and 9th letters from the left end of the word \"SHOWERING\", then which of the following will be the last letter of the meaningful word thus formed? If more than one meaningful word is formed mark Y as your answer. If no meaningful word is formed, mark X as your answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "H"
+        },
+        {
+          "id": "b",
+          "text": "G"
+        },
+        {
+          "id": "c",
+          "text": "I"
+        },
+        {
+          "id": "d",
+          "text": "Y"
+        },
+        {
+          "id": "e",
+          "text": "X"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q68",
+      "number": 68,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Direction: In the question below, there are three statements followed by two conclusions numbered I and II. Statements: Some puzzle are inequality. No puzzle is coding. Some coding is not input. Conclusions: I. All inequality can be coding. II. Some puzzle is not input.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both follow"
+        },
+        {
+          "id": "b",
+          "text": "Only II follow"
+        },
+        {
+          "id": "c",
+          "text": "Neither I nor II follow."
+        },
+        {
+          "id": "d",
+          "text": "Only I follow"
+        },
+        {
+          "id": "e",
+          "text": "Either I or II follow"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q69",
+      "number": 69,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Statements: Only a few true are false. No false is correct. All wrong are correct. Conclusions: I. Some false can be wrong. II. Some true can be correct.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both I and II follow"
+        },
+        {
+          "id": "b",
+          "text": "Only I follow"
+        },
+        {
+          "id": "c",
+          "text": "None follow"
+        },
+        {
+          "id": "d",
+          "text": "Either I or II follow"
+        },
+        {
+          "id": "e",
+          "text": "Only II follow"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q70",
+      "number": 70,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Ten persons live on different floors... Which of the following is true with respect to C as per the given information? [Building 10 floors, N on even floor above 6th, etc.]",
+      "options": [
+        {
+          "id": "a",
+          "text": "N lives immediately below C."
+        },
+        {
+          "id": "b",
+          "text": "C lives immediately below D."
+        },
+        {
+          "id": "c",
+          "text": "C lives on floor number 9."
+        },
+        {
+          "id": "d",
+          "text": "Two floors are there between C and D."
+        },
+        {
+          "id": "e",
+          "text": "C lives on an even-numbered floor."
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_floor_70_74"
+    },
+    {
+      "id": "q71",
+      "number": 71,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who lives on the floor immediately above D? (Floor puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "No one"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "H"
+        },
+        {
+          "id": "d",
+          "text": "J"
+        },
+        {
+          "id": "e",
+          "text": "G"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_floor_70_74"
+    },
+    {
+      "id": "q72",
+      "number": 72,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who among the following lives on floor number 6?",
+      "options": [
+        {
+          "id": "a",
+          "text": "F"
+        },
+        {
+          "id": "b",
+          "text": "E"
+        },
+        {
+          "id": "c",
+          "text": "D"
+        },
+        {
+          "id": "d",
+          "text": "G"
+        },
+        {
+          "id": "e",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_floor_70_74"
+    },
+    {
+      "id": "q73",
+      "number": 73,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many persons live between the floors of G and B?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Four"
+        },
+        {
+          "id": "b",
+          "text": "Seven"
+        },
+        {
+          "id": "c",
+          "text": "Five"
+        },
+        {
+          "id": "d",
+          "text": "Six"
+        },
+        {
+          "id": "e",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_floor_70_74"
+    },
+    {
+      "id": "q74",
+      "number": 74,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who amongst the following live on the floors exactly between F and H?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A and C"
+        },
+        {
+          "id": "b",
+          "text": "E and A"
+        },
+        {
+          "id": "c",
+          "text": "E and D"
+        },
+        {
+          "id": "d",
+          "text": "D and A"
+        },
+        {
+          "id": "e",
+          "text": "C and E"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_floor_70_74"
+    },
+    {
+      "id": "q75",
+      "number": 75,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Eight members A,B,C,D,E,F,G,H are in a family... H is sister-in-law of G, spouse of E. F is daughter of E and mother of D, granddaughter of G. E is daughter-in-law of C who is husband of A. D and H are not married. Who is the spouse of B?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "D"
+        },
+        {
+          "id": "d",
+          "text": "F"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_family_75_77"
+    },
+    {
+      "id": "q76",
+      "number": 76,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How is A related to F? (Same family puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mother"
+        },
+        {
+          "id": "b",
+          "text": "Father"
+        },
+        {
+          "id": "c",
+          "text": "Grandmother"
+        },
+        {
+          "id": "d",
+          "text": "Grandfather"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_family_75_77"
+    },
+    {
+      "id": "q77",
+      "number": 77,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many female members are there in the family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Four"
+        },
+        {
+          "id": "b",
+          "text": "Five"
+        },
+        {
+          "id": "c",
+          "text": "Six"
+        },
+        {
+          "id": "d",
+          "text": "Three"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_family_75_77"
+    },
+    {
+      "id": "q78",
+      "number": 78,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "If all the letters of the word “FRONTIER” are arranged in alphabetical order starting from the left end, then how many letters are there in English alphabets between the letters which are fifth from the right end and fourth to the left of the seventh letter from the left end?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Five"
+        },
+        {
+          "id": "b",
+          "text": "Four"
+        },
+        {
+          "id": "c",
+          "text": "Two"
+        },
+        {
+          "id": "d",
+          "text": "Three"
+        },
+        {
+          "id": "e",
+          "text": "More than Five"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q79",
+      "number": 79,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Six persons - P,Q,R,S,T,U visited different countries - Russia, Canada, Japan, Netherlands, France, China. They attended meeting on two different dates either 11 or 22 of three different months - September, October, November. P attended two persons before the one who visited Japan. At least three persons attended after P. Only two persons attended between P and S. Number of persons who attended before S same as after the one who visited Russia. U attended immediately after the one who visited China. U neither visited Japan nor Netherlands. R attended on odd number date but after P. T neither visited Russia nor Japan. Q attended immediately before the one who visited France. Who attended meeting on September 22?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q"
+        },
+        {
+          "id": "b",
+          "text": "The one who visited China"
+        },
+        {
+          "id": "c",
+          "text": "The one who visited France"
+        },
+        {
+          "id": "d",
+          "text": "U"
+        },
+        {
+          "id": "e",
+          "text": "R"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_date_country_79_83"
+    },
+    {
+      "id": "q80",
+      "number": 80,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Which of the following statement is/are correct? (Same date-country puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "P attended two persons before U."
+        },
+        {
+          "id": "b",
+          "text": "Only two persons attended between Q and U."
+        },
+        {
+          "id": "c",
+          "text": "No one attended after R."
+        },
+        {
+          "id": "d",
+          "text": "Both (1) and (2)"
+        },
+        {
+          "id": "e",
+          "text": "Both (2) and (3)"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_date_country_79_83"
+    },
+    {
+      "id": "q81",
+      "number": 81,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "In which of the following countries did R visit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Netherlands"
+        },
+        {
+          "id": "b",
+          "text": "Russia"
+        },
+        {
+          "id": "c",
+          "text": "France"
+        },
+        {
+          "id": "d",
+          "text": "Japan"
+        },
+        {
+          "id": "e",
+          "text": "Canada"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_date_country_79_83"
+    },
+    {
+      "id": "q82",
+      "number": 82,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many persons attended before the one who visited China?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two"
+        },
+        {
+          "id": "b",
+          "text": "Three"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "One"
+        },
+        {
+          "id": "e",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_date_country_79_83"
+    },
+    {
+      "id": "q83",
+      "number": 83,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Which of the following Month and Date did S attend the meeting?",
+      "options": [
+        {
+          "id": "a",
+          "text": "October 11"
+        },
+        {
+          "id": "b",
+          "text": "September 22"
+        },
+        {
+          "id": "c",
+          "text": "September 11"
+        },
+        {
+          "id": "d",
+          "text": "December 11"
+        },
+        {
+          "id": "e",
+          "text": "December 22"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_date_country_79_83"
+    },
+    {
+      "id": "q84",
+      "number": 84,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Six persons viz. A,B,C,D,E,F are sitting around a circular table facing towards the center. All of them like different fruits viz. Mango, Apple, Orange, Banana, Guava, and Grapes. Only one person sits between the one who likes Grapes and Banana. The one who likes Guava doesn’t sit adjacent to the one who likes Mango. E sits facing towards D, who likes Apple. B sits second to the right of C, who likes Mango. The one who likes Apple doesn’t sit adjacent to the one who likes Grapes. Neither B nor E likes Guava. The person who likes Grapes sits immediately right of the one who sits opposite to F. Four of the following five are alike in a certain way and hence form a group. Which does not belong?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B - Grapes"
+        },
+        {
+          "id": "b",
+          "text": "A - Apple"
+        },
+        {
+          "id": "c",
+          "text": "F - Banana"
+        },
+        {
+          "id": "d",
+          "text": "E - Mango"
+        },
+        {
+          "id": "e",
+          "text": "D - Guava"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_fruit_circular_84_88"
+    },
+    {
+      "id": "q85",
+      "number": 85,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who among the following person sits third to the right of the one who likes Mango? (Fruit circular puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "The one who likes Guava"
+        },
+        {
+          "id": "b",
+          "text": "The one who likes Banana"
+        },
+        {
+          "id": "c",
+          "text": "F"
+        },
+        {
+          "id": "d",
+          "text": "Both (1) and (2)"
+        },
+        {
+          "id": "e",
+          "text": "Both (1) and (3)"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_fruit_circular_84_88"
+    },
+    {
+      "id": "q86",
+      "number": 86,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Which of the following statement/s is/are not true with respect to the final arrangement? (Fruit circular)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A sits second to the right of the one who likes Guava."
+        },
+        {
+          "id": "b",
+          "text": "The one who likes Mango sits to the immediate left of the one who likes Grapes."
+        },
+        {
+          "id": "c",
+          "text": "The one who likes Apple sits second to the left of C."
+        },
+        {
+          "id": "d",
+          "text": "The one who likes Banana sits facing towards E."
+        },
+        {
+          "id": "e",
+          "text": "All are true"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_fruit_circular_84_88"
+    },
+    {
+      "id": "q87",
+      "number": 87,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "What is the position of B with respect to the one who likes Guava?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Third to the right"
+        },
+        {
+          "id": "b",
+          "text": "Immediate left"
+        },
+        {
+          "id": "c",
+          "text": "Second to the left"
+        },
+        {
+          "id": "d",
+          "text": "Third to the left"
+        },
+        {
+          "id": "e",
+          "text": "Immediate right"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_fruit_circular_84_88"
+    },
+    {
+      "id": "q88",
+      "number": 88,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who among the following person likes Banana? (Fruit circular)",
+      "options": [
+        {
+          "id": "a",
+          "text": "F"
+        },
+        {
+          "id": "b",
+          "text": "The one who sits to the immediate left of D"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "Both (1) and (2)"
+        },
+        {
+          "id": "e",
+          "text": "Both (2) and (3)"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_fruit_circular_84_88"
+    },
+    {
+      "id": "q89",
+      "number": 89,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "In a certain code language: “work is worship” is coded as “jk rt pq” “work hard always” is coded as “jk mn uv” “always do worship” is coded as “uv st pq” “hard time passes” is coded as “mn ab ef” Which among the following words is coded as \"rt\" ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "work"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "hard"
+        },
+        {
+          "id": "d",
+          "text": "time"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_code_89_92"
+    },
+    {
+      "id": "q90",
+      "number": 90,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Which among the following words is coded as \"ab\" ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "time"
+        },
+        {
+          "id": "b",
+          "text": "passes"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "Either A or B"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_code_89_92"
+    },
+    {
+      "id": "q91",
+      "number": 91,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Which of the following words is correctly matched with its code?",
+      "options": [
+        {
+          "id": "a",
+          "text": "word - rt"
+        },
+        {
+          "id": "b",
+          "text": "is - jk"
+        },
+        {
+          "id": "c",
+          "text": "worship - mn"
+        },
+        {
+          "id": "d",
+          "text": "do - rt"
+        },
+        {
+          "id": "e",
+          "text": "hard - mn"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_code_89_92"
+    },
+    {
+      "id": "q92",
+      "number": 92,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "What is the code of \"time passes\" as per the given code language?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ab uv"
+        },
+        {
+          "id": "b",
+          "text": "ef jk"
+        },
+        {
+          "id": "c",
+          "text": "ab ef"
+        },
+        {
+          "id": "d",
+          "text": "ef rt"
+        },
+        {
+          "id": "e",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_code_89_92"
+    },
+    {
+      "id": "q93",
+      "number": 93,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Seven boys P, Q, R, S, T, U and V have different weights. V is heavier than Q. P is heavier than only three people. Q is heavier than P. T is heavier than S but lighter than R. U is heavier than R but lighter than Q. How many boys are lighter than U?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Five"
+        },
+        {
+          "id": "b",
+          "text": "Four"
+        },
+        {
+          "id": "c",
+          "text": "Two"
+        },
+        {
+          "id": "d",
+          "text": "Three"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_weight_93_95"
+    },
+    {
+      "id": "q94",
+      "number": 94,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who is the third lightest boy? (Same weight puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "T"
+        },
+        {
+          "id": "b",
+          "text": "U"
+        },
+        {
+          "id": "c",
+          "text": "R"
+        },
+        {
+          "id": "d",
+          "text": "P"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_weight_93_95"
+    },
+    {
+      "id": "q95",
+      "number": 95,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many boys are there between Q and T? (Same weight puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Three"
+        },
+        {
+          "id": "b",
+          "text": "One"
+        },
+        {
+          "id": "c",
+          "text": "More than three"
+        },
+        {
+          "id": "d",
+          "text": "Two"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_weight_93_95"
+    },
+    {
+      "id": "q96",
+      "number": 96,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Eight person named E, F, G, H, I, J, K and L are sitting in a row. Some facing north/south. Not more than two persons next to each other facing same direction. E sits 2nd to right of F. F and J face same direction. Number of persons sitting to right of G same as left of H. I faces north. L sits 4th to right of J and both facing opposite. K sits 3rd to left of L. H sits 2nd to right of K. Both immediate neighbors of H face opposite directions. Who sits second to left of I?",
+      "options": [
+        {
+          "id": "a",
+          "text": "K"
+        },
+        {
+          "id": "b",
+          "text": "The person who sits 2nd to the right of F."
+        },
+        {
+          "id": "c",
+          "text": "H"
+        },
+        {
+          "id": "d",
+          "text": "J"
+        },
+        {
+          "id": "e",
+          "text": "The person who sits 2nd to the left of G."
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_row_96_100"
+    },
+    {
+      "id": "q97",
+      "number": 97,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many persons are facing South? (Row puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Two"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "Four"
+        },
+        {
+          "id": "e",
+          "text": "Five"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_row_96_100"
+    },
+    {
+      "id": "q98",
+      "number": 98,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many persons are sitting between F and K? (Row puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Six"
+        },
+        {
+          "id": "b",
+          "text": "Five"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "Three"
+        },
+        {
+          "id": "e",
+          "text": "Two"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_row_96_100"
+    },
+    {
+      "id": "q99",
+      "number": 99,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "The number of persons sitting between G and E is/are two less than between __________.",
+      "options": [
+        {
+          "id": "a",
+          "text": "J and G"
+        },
+        {
+          "id": "b",
+          "text": "F and H"
+        },
+        {
+          "id": "c",
+          "text": "K and L"
+        },
+        {
+          "id": "d",
+          "text": "H and I"
+        },
+        {
+          "id": "e",
+          "text": "G and K"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_row_96_100"
+    },
+    {
+      "id": "q100",
+      "number": 100,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Which of the following is false? (Row puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "The person sitting between J and G is facing the same direction as J."
+        },
+        {
+          "id": "b",
+          "text": "The person sitting between F and E is facing the same direction as E."
+        },
+        {
+          "id": "c",
+          "text": "The person sitting between H and E is facing the same direction as H."
+        },
+        {
+          "id": "d",
+          "text": "The person sitting between L and I is facing the same direction as L."
+        },
+        {
+          "id": "e",
+          "text": "The person sitting between H and K is not facing the same direction as K."
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_row_96_100"
+    }
+  ],
+  "validation": {
+    "totalQuestions": 100,
+    "expectedCounts": {
+      "english": 30,
+      "quant": 35,
+      "reasoning": 35
+    },
+    "allQuestionsHaveAnswers": true,
+    "allQuestionsHaveFourOrFiveOptions": true,
+    "groupsLinked": true,
+    "schemaCompliant": true,
+    "incompleteQuestions": [
+      {
+        "id": "q32",
+        "reason": "Total time for 20km upstream +15km downstream illegible in PDF extract; preserved with placeholder, correct answer per key"
+      },
+      {
+        "id": "q45-50",
+        "reason": "Line graph totals for Museums A,B,C,D not present in text extract; table fractions available; group marked incomplete but questions retained with answer keys"
+      }
+    ]
+  }
+}
