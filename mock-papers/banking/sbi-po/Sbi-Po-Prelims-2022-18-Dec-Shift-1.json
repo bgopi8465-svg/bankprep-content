@@ -1,0 +1,3351 @@
+{
+  "schemaVersion": "1.0.0",
+  "exam": {
+    "id": "sbi-po-prelims-2022-18-dec-shift-1",
+    "name": "SBI PO Prelims",
+    "code": "SBI-PO-PRELIMS",
+    "year": 2022,
+    "shift": 1,
+    "date": "2022-12-18",
+    "slot": "Shift 1 - 18 Dec 2022",
+    "totalQuestions": 100,
+    "totalMarks": 100,
+    "source": "SBI PO Prelims December 2022, Shift 1 - Prepp.in memory based"
+  },
+  "configuration": {
+    "totalDurationMinutes": 60,
+    "sectionalTiming": true,
+    "sections": [
+      {
+        "id": "english",
+        "name": "English Language",
+        "order": 1,
+        "questionRange": [
+          1,
+          30
+        ],
+        "totalQuestions": 30,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      },
+      {
+        "id": "quant",
+        "name": "Quantitative Aptitude",
+        "order": 2,
+        "questionRange": [
+          31,
+          65
+        ],
+        "totalQuestions": 35,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      },
+      {
+        "id": "reasoning",
+        "name": "Reasoning Ability",
+        "order": 3,
+        "questionRange": [
+          66,
+          100
+        ],
+        "totalQuestions": 35,
+        "durationMinutes": 20,
+        "marksPerQuestion": 1,
+        "negativeMarks": 0.25,
+        "isOptional": false
+      }
+    ],
+    "markingScheme": {
+      "correct": 1,
+      "incorrect": -0.25,
+      "unattempted": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "grp_rc_5g_1_8",
+      "type": "readingComprehension",
+      "title": "RC - 5G Technology in Airplanes",
+      "section": "english",
+      "questionIds": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6",
+        "q7",
+        "q8"
+      ],
+      "passage": "The advent of 5G technology has revolutionized connectivity, promising lightning-fast speeds and seamless communication. However, ensuring its efficacy and reliability within the confines of an airplane presents unique challenges. This RC aims to explore the feasibility and potential benefits of implementing a robust 5G network for passenger mobile usage during flights.\n\nIn order to achieve a viable solution, stakeholders in the aviation industry must come together to hammer out a comprehensive plan. Airlines, telecommunication providers, and regulatory bodies need to collaborate closely to address technical obstacles and guarantee passenger safety. One key aspect is to concede that cellular signals pose no threat to the aircraft's avionics. Extensive research and stringent testing protocols should be implemented to alleviate concerns and provide unequivocal evidence.\n\nAnother vital element is securing agreements with telecom companies to establish reliable 5G infrastructure that caters specifically to in-flight usage. These agreements should focus on optimizing network coverage, minimizing signal interference, and maximizing bandwidth capacity. Additionally, international cooperation and harmonization of regulations will be crucial to ensure seamless connectivity across different airspace jurisdictions.\n\nBy hammering out the intricate details, all parties involved can agree upon standardized guidelines and protocols for the use of mobile devices during flights. This will enhance the passenger _______, enabling them to stay connected and productive throughout their journey while simultaneously respecting safety and security regulations.\n\nImplementing a 5G network for passenger mobile usage in airplanes requires collective efforts, with stakeholders conceding potential concerns and agreeing on effective solutions. A seamless and reliable 5G network can be developed by working out the technical details while establishing solid partnerships, improving the in-flight experience for passengers, and creating a new standard for connection in the aviation industry."
+    },
+    {
+      "id": "grp_word_rearr_9_14",
+      "type": "wordRearrangement",
+      "title": "Word Rearrangement - Triple Words",
+      "section": "english",
+      "questionIds": [
+        "q9",
+        "q10",
+        "q11",
+        "q12",
+        "q13",
+        "q14"
+      ]
+    },
+    {
+      "id": "grp_para_npcil_20_24",
+      "type": "paraJumble",
+      "title": "Para-Jumble - NPCIL",
+      "section": "english",
+      "questionIds": [
+        "q20",
+        "q21",
+        "q22",
+        "q23",
+        "q24"
+      ],
+      "sentences": [
+        {
+          "id": "A",
+          "text": "NPCIL is a dividend-paying company with the highest credit rating of AAA by CRISIL and CARE"
+        },
+        {
+          "id": "B",
+          "text": "At present, NPCIL operates 22 nuclear power reactors with an installed capacity of 6780 MW."
+        },
+        {
+          "id": "C",
+          "text": "NPCIL is responsible for siting, design, construction, commissioning and operation of nuclear power reactors."
+        },
+        {
+          "id": "D",
+          "text": "Nuclear Power Corporation of India Limited (NPCIL), formed in 1987, is a Public Sector Enterprise under the administrative control of Department of Atomic Energy (DAE)."
+        },
+        {
+          "id": "E",
+          "text": "Safety is given overriding priority in all facets of nuclear power reactors."
+        }
+      ],
+      "correctOrder": [
+        "D",
+        "A",
+        "C",
+        "E",
+        "B"
+      ]
+    },
+    {
+      "id": "grp_pie_company_41_45",
+      "type": "dataInterpretation",
+      "subType": "pieChart",
+      "title": "Pie Chart - Employees in Companies A-E (Total 3000, M:F 3:2 each)",
+      "section": "quant",
+      "questionIds": [
+        "q41",
+        "q42",
+        "q43",
+        "q44",
+        "q45"
+      ],
+      "data": {
+        "description": "Pie chart shows percentage distribution of total number of Employees in five different Company A,B,C,D,E respectively. Total number of employees is 3000. Ratio of Male to Female Employees is 3:2 in each company. Note: Exact pie percentages not legible in extracted text; questions reference derived counts.",
+        "totalEmployees": 3000,
+        "maleFemaleRatio": "3:2",
+        "incomplete": true,
+        "note": "Pie percentages missing in source extract; retain group for engine"
+      }
+    },
+    {
+      "id": "grp_bar_branches_51_55",
+      "type": "dataInterpretation",
+      "subType": "barGraph",
+      "title": "Bar Graph - Students of Different Branches (Boys/Girls)",
+      "section": "quant",
+      "questionIds": [
+        "q51",
+        "q52",
+        "q53",
+        "q54",
+        "q55"
+      ],
+      "data": {
+        "description": "Bar graph shows number of students of different branches of a college (Computer, Electrical, Civil, Mechanical, Electronics) split by boys and girls. Exact numbers not legible in text extract; questions ask averages, percentages, ratios.",
+        "incomplete": true
+      }
+    },
+    {
+      "id": "grp_performance_66_70",
+      "type": "puzzle",
+      "subType": "monthDatePersonSubject",
+      "title": "Performance Reviews - 6 People, March/July/December 14/26, Subjects",
+      "section": "reasoning",
+      "questionIds": [
+        "q66",
+        "q67",
+        "q68",
+        "q69",
+        "q70"
+      ],
+      "puzzleText": "6 people – A, B, C, P, Q, and R, work in the same school had their performance reviews in the months of March, July and December on either the 14th or the 26th of the month. Each of them teaches a different subject. B had his performance review on the 26th of July. The Biology teacher had his performance review after the Maths teacher in the same month. The History teacher had his review before A, who did not teach Chemistry. 4 people had their reviews between P and C, who did not teach Physics. C was not the English teacher but had his review immediately after Q. R did not teach Biology. 2 people had their reviews between the Physics teacher and B. The English teacher had his review in December."
+    },
+    {
+      "id": "grp_direction_71_73",
+      "type": "puzzle",
+      "subType": "directionDistance",
+      "title": "Direction Puzzle - Yuvraj Walking P->O->Q->R->S->T->U->V->W->X->Y",
+      "section": "reasoning",
+      "questionIds": [
+        "q71",
+        "q72",
+        "q73"
+      ],
+      "puzzleText": "Starting from point P, Yuvraj walked 20 meters toward the South and reached point O. He turned left and walked 30 meters and reached point Q. From point Q he turned left and walked 20 meters and reached point R. He again turned left and walked 40 meters and reached point S. Then he turned right and walked for 30 meters and reached point T. He again turned left and walked 20 meters and reached point U. Then he turned left and walked 70 meters and reached point V. From there he turned left and walked 20 meters and reached point W. Then he turned left and walked 10 meters and reached point X. At last, he turned right and walked 10 meters, and reached point Y."
+    },
+    {
+      "id": "grp_row_74_76",
+      "type": "seating",
+      "subType": "linearRow",
+      "title": "Linear Row Facing North - People U,S,T,R,P,A,X,B,Z,Q,N",
+      "section": "reasoning",
+      "questionIds": [
+        "q74",
+        "q75",
+        "q76"
+      ],
+      "puzzleText": "A certain number of people sit in a row facing North. U sits 3rd to the left of S. T sits 3rd from one of the ends of the row, 7 places away from R. P sits 2nd to the right of R. A sits at the right end of the row. One person sits between X and B, and has 4 people sit between B and Z. Q sits immediately between X and T. Nobody sits to the left of R."
+    },
+    {
+      "id": "grp_dept_78_82",
+      "type": "puzzle",
+      "subType": "departmentAllocation",
+      "title": "Department Puzzle - Marketing/Finance/Admin - 9 People G,H,I,J,K,L,M,N,O",
+      "section": "reasoning",
+      "questionIds": [
+        "q78",
+        "q79",
+        "q80",
+        "q81",
+        "q82"
+      ],
+      "puzzleText": "Nine people viz; G, H, I, J, K, L, M, N and O are working in a company in three different departments viz; Marketing, Finance and Admin. A minimum of 2 people and a maximum of 4 people are working in a department. I is not working in Admin. G is working in Finance. M is not working in Marketing and not with G also. N is not working in Marketing. O is working with G. H and K working together but not in Marketing. J neither works in Finance nor with M. N is not working with K. L is working with only one person."
+    },
+    {
+      "id": "grp_parallel_87_91",
+      "type": "seating",
+      "subType": "parallelRows",
+      "title": "Two Parallel Rows - Row2 A-G South, Row1 P-V North",
+      "section": "reasoning",
+      "questionIds": [
+        "q87",
+        "q88",
+        "q89",
+        "q90",
+        "q91"
+      ],
+      "puzzleText": "Fourteen people are sitting in two parallel rows. Row-1 is in the South of row-2. Persons of row 1 faces persons of row 2. Each row has 7 seats. A, B, C, D, E, F and G are sitting in row-2 and facing South while P, Q, R, S, T, U and V Are sitting in row-1 and facing North. G is second from one end. Only one people is sitting between P and the one who is facing G. Only two people are sitting between G and C. A is sitting immediately to the left of C. The one who is facing A is sitting immediate left of R. One person is sitting between T and U. As many people are sitting between T and R as are sitting between T and U. S and D are facing each other and sitting on an end. Only one person is sitting between C and E, who is not facing U. B is sitting immediate right of F. Both F and G are not facing V."
+    },
+    {
+      "id": "grp_building_96_100",
+      "type": "puzzle",
+      "subType": "floorColour",
+      "title": "Seven Story Building - K,L,M,N,O,P,Q - Colours Blue,White,Green,Red,Black,Pink,Yellow",
+      "section": "reasoning",
+      "questionIds": [
+        "q96",
+        "q97",
+        "q98",
+        "q99",
+        "q100"
+      ],
+      "puzzleText": "Seven people viz; K, L, M, N, O, P, and Q are living in a seven story building where topmost floor is numbered as 7 and bottommost floor is numbered as 1. All of them like different colours viz; Blue, White, Green, Red, Black, Pink, and Yellow but not necessarily the same. Only two people lives below the one who likes Blue. Only one person lives between the one who likes Green and Blue. Q lives immediately above the one who likes Blue. O lives two floors above Q. Only one person lives between O and the one who likes Red. M likes Black and lives on Topmost floor. The one who likes Pink lives immediately above the one who likes Green. Only one person lives between Q and N. The one who likes White lives immediately above the one who likes Yellow. Only one person lives between K and L, who lives below K but not on the bottommost floor. P doesn't likes Green."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which of the following is a synonym for the word 'concede' as used in passage? One key aspect is to concede that cellular signals pose no threat...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Refute"
+        },
+        {
+          "id": "b",
+          "text": "Concur"
+        },
+        {
+          "id": "c",
+          "text": "Deny"
+        },
+        {
+          "id": "d",
+          "text": "Oppose"
+        },
+        {
+          "id": "e",
+          "text": "Challenge"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which of the following is an antonym for the word 'agree'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Disagree"
+        },
+        {
+          "id": "b",
+          "text": "Consent"
+        },
+        {
+          "id": "c",
+          "text": "Concur"
+        },
+        {
+          "id": "d",
+          "text": "Harmonize"
+        },
+        {
+          "id": "e",
+          "text": "Support"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "section": "english",
+      "type": "mcq",
+      "text": "What is the purpose of implementing extensive research and stringent testing protocols, as mentioned in the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To confirm that cellular signals are a threat to the aircraft's avionics"
+        },
+        {
+          "id": "b",
+          "text": "To disregard concerns related to cellular signals in airplanes"
+        },
+        {
+          "id": "c",
+          "text": "To ensure passenger safety by addressing concerns and providing evidence"
+        },
+        {
+          "id": "d",
+          "text": "To create obstacles and hinder the implementation of 5G in airplanes"
+        },
+        {
+          "id": "e",
+          "text": "To promote the use of mobile devices during flights without any limitations"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "section": "english",
+      "type": "mcq",
+      "text": "What is one of the challenges in ensuring the efficacy and reliability of 5G within an airplane?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regulatory compliance"
+        },
+        {
+          "id": "b",
+          "text": "Network optimization"
+        },
+        {
+          "id": "c",
+          "text": "Signal interference"
+        },
+        {
+          "id": "d",
+          "text": "International cooperation"
+        },
+        {
+          "id": "e",
+          "text": "Passenger safety"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "section": "english",
+      "type": "mcq",
+      "text": "What is one of the key elements in securing agreements with telecom companies for in-flight 5G infrastructure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Airspace jurisdictions"
+        },
+        {
+          "id": "b",
+          "text": "Regulatory bodies"
+        },
+        {
+          "id": "c",
+          "text": "Signal interference"
+        },
+        {
+          "id": "d",
+          "text": "Telecommunication providers"
+        },
+        {
+          "id": "e",
+          "text": "Harmonization of regulations"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "section": "english",
+      "type": "mcq",
+      "text": "What does the phrase 'hammering out' mean in the given passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Physically using a hammer to construct something"
+        },
+        {
+          "id": "b",
+          "text": "Intensely discussing and negotiating to find a workable solution"
+        },
+        {
+          "id": "c",
+          "text": "Hammering a point repeatedly to emphasize its importance"
+        },
+        {
+          "id": "d",
+          "text": "Engaging in a physical activity to relieve stress after negotiations"
+        },
+        {
+          "id": "e",
+          "text": "Demonstrating determination and perseverance through the use of a hammer"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "section": "english",
+      "type": "mcq",
+      "text": "What should the agreements with telecom companies primarily focus on, according to the passage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reducing network coverage to minimize signal interference"
+        },
+        {
+          "id": "b",
+          "text": "Limiting bandwidth capacity to ensure stable connections"
+        },
+        {
+          "id": "c",
+          "text": "Establishing partnerships with non-telecom companies"
+        },
+        {
+          "id": "d",
+          "text": "Optimizing network coverage, minimizing signal interference, and maximizing bandwidth capacity"
+        },
+        {
+          "id": "e",
+          "text": "Increasing signal interference to test the reliability of the 5G network"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "section": "english",
+      "type": "mcq",
+      "text": "What will fit in the blank taken from the passage 'This will enhance the passenger _______, enabling them to stay connected and productive throughout their journey while simultaneously respecting safety and security regulations.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Experience"
+        },
+        {
+          "id": "b",
+          "text": "Satisfaction"
+        },
+        {
+          "id": "c",
+          "text": "Connectivity"
+        },
+        {
+          "id": "d",
+          "text": "Efficiency"
+        },
+        {
+          "id": "e",
+          "text": "Enjoyment"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_rc_5g_1_8"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "section": "english",
+      "type": "mcq",
+      "text": "Directions: In the given sentence, three words are marked as (A), (B), and (C). These words may or may not be placed in their right places. When the anticipation(A) was about to announce the winner of the best actor award an host(B) of atmosphere(C) vibrated through the crowd.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ACB"
+        },
+        {
+          "id": "b",
+          "text": "CAB"
+        },
+        {
+          "id": "c",
+          "text": "BCA"
+        },
+        {
+          "id": "d",
+          "text": "BAC"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_word_rearr_9_14"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "section": "english",
+      "type": "mcq",
+      "text": "Kolkata, with one the largely(A) road space among the metropolis of the country, is fast(B) dependent on metro railway services for lowest(C) movement of passengers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ACB"
+        },
+        {
+          "id": "b",
+          "text": "CBA"
+        },
+        {
+          "id": "c",
+          "text": "BAC"
+        },
+        {
+          "id": "d",
+          "text": "CAB"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_word_rearr_9_14"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "section": "english",
+      "type": "mcq",
+      "text": "No country can go far if a invested(A) proportion of its population is illiterate, unhealthy, or malnourished, all the significant(B) that are developed today countries(C) well in education, health, and nutrition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ACB"
+        },
+        {
+          "id": "b",
+          "text": "BCA"
+        },
+        {
+          "id": "c",
+          "text": "BAC"
+        },
+        {
+          "id": "d",
+          "text": "CBA"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_word_rearr_9_14"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "section": "english",
+      "type": "mcq",
+      "text": "If you suspect that 21st-century technology(A) has broken your brain, it will be reassuring(B) to know that attention(C) spans have never been what they used to be.",
+      "options": [
+        {
+          "id": "a",
+          "text": "CAB"
+        },
+        {
+          "id": "b",
+          "text": "CBA"
+        },
+        {
+          "id": "c",
+          "text": "ACB"
+        },
+        {
+          "id": "d",
+          "text": "BAC"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_word_rearr_9_14"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "section": "english",
+      "type": "mcq",
+      "text": "Power is accessible(A) for everyday operations in almost every essential(B) of modern life and power engineers help ensure that this power is facet(C) to people.",
+      "options": [
+        {
+          "id": "a",
+          "text": "BAC"
+        },
+        {
+          "id": "b",
+          "text": "BCA"
+        },
+        {
+          "id": "c",
+          "text": "CAB"
+        },
+        {
+          "id": "d",
+          "text": "CBA"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_word_rearr_9_14"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "section": "english",
+      "type": "mcq",
+      "text": "The presence of foreign competition(A) in India will bring in an element of quality(B) and increase the standards and universities(C) of Indian institutions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "CAB"
+        },
+        {
+          "id": "b",
+          "text": "CBA"
+        },
+        {
+          "id": "c",
+          "text": "ACB"
+        },
+        {
+          "id": "d",
+          "text": "BAC"
+        },
+        {
+          "id": "e",
+          "text": "No rearrangement required"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_word_rearr_9_14"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "section": "english",
+      "type": "mcq",
+      "text": "Given below is a word, followed by three sentences that consist of that word. DEFY A. The brave young woman decided to defy the rules and pursue her dreams. B. His actions openly defied the authority of the government. C. The officer was convicted for refusing to defy orders",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only A"
+        },
+        {
+          "id": "b",
+          "text": "Both A and B"
+        },
+        {
+          "id": "c",
+          "text": "Only B"
+        },
+        {
+          "id": "d",
+          "text": "Both B and C"
+        },
+        {
+          "id": "e",
+          "text": "Only C"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "section": "english",
+      "type": "mcq",
+      "text": "Given below is a word, followed by three sentences that consist of that word. HANDLE A. She carefully held the handle of the door. B. The detective found a crucial piece of evidence with his keen handle on the case. C. He couldn't handle the pressure and decided to quit.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only A"
+        },
+        {
+          "id": "b",
+          "text": "Both B and A."
+        },
+        {
+          "id": "c",
+          "text": "Only B"
+        },
+        {
+          "id": "d",
+          "text": "Both B and C"
+        },
+        {
+          "id": "e",
+          "text": "All of the Above"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which of the phrases should replace the underlined to make grammatically correct? Hardly had the peoples reached Mumbai then they were ordered to return to Delhi.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the peoples reached Mumbai then"
+        },
+        {
+          "id": "b",
+          "text": "the peoples reached Mumbai than"
+        },
+        {
+          "id": "c",
+          "text": "the people reached Mumbai when"
+        },
+        {
+          "id": "d",
+          "text": "the people's reached Mumbai when"
+        },
+        {
+          "id": "e",
+          "text": "No correction required"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "section": "english",
+      "type": "mcq",
+      "text": "The cost of medical care in this country is very high that they had to sell their land to pay for it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is quite high and"
+        },
+        {
+          "id": "b",
+          "text": "too high for"
+        },
+        {
+          "id": "c",
+          "text": "so high but"
+        },
+        {
+          "id": "d",
+          "text": "more high"
+        },
+        {
+          "id": "e",
+          "text": "no correction required"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "section": "english",
+      "type": "mcq",
+      "text": "BJP is the country's only political party with a trained political human resource, which will serve as the backing bone in the organization’s workforce in the coming years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the backing bone of the organization’s"
+        },
+        {
+          "id": "b",
+          "text": "the backbone in the organization’s"
+        },
+        {
+          "id": "c",
+          "text": "the backbone of the organization’s"
+        },
+        {
+          "id": "d",
+          "text": "the backbones of the organization’s"
+        },
+        {
+          "id": "e",
+          "text": "No correction required"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "section": "english",
+      "type": "mcq",
+      "text": "Rearrange five segments (A),(B),(C),(D),(E) to form meaningful paragraph. A. NPCIL is a dividend-paying company with highest credit rating AAA by CRISIL and CARE B. At present, NPCIL operates 22 nuclear power reactors with installed capacity 6780 MW. C. NPCIL is responsible for siting, design, construction, commissioning and operation of nuclear power reactors. D. Nuclear Power Corporation of India Limited (NPCIL), formed in 1987, is a Public Sector Enterprise under administrative control of Department of Atomic Energy (DAE). E. Safety is given overriding priority in all facets of nuclear power reactors. Which is the first sentence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_para_npcil_20_24"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which is the second sentence according to the passage? (NPCIL paragraph)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_para_npcil_20_24"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which is the third sentence according to the paragraph? (NPCIL)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_para_npcil_20_24"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which is the fourth sentence according to the paragraph? (NPCIL)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_para_npcil_20_24"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "section": "english",
+      "type": "mcq",
+      "text": "Which is the fifth sentence according to the paragraph? (NPCIL)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_para_npcil_20_24"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "section": "english",
+      "type": "mcq",
+      "text": "Read sentence to find error. Their most significant gains (A)/ have been in the north half of the country, (B)/ a traditional stronghold of the U.S. allied (C)/ warlords who helped defeat them in 2001(D)/ No Error (E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "section": "english",
+      "type": "mcq",
+      "text": "Policies and plans pertaining to transport(A)/ and mobility, shelter and (B)/ social infrastructure was also (C)/ discussed at the webinar held on Tuesday.(D)/ No Error(E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "section": "english",
+      "type": "mcq",
+      "text": "The protesters will reach designated (A)/ public locations by any (B)/ means of transport including scooters,(C)/ motorcycles, tractor, car, buses, truck.(D)/ No error(E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "section": "english",
+      "type": "mcq",
+      "text": "After a drasticly fall in demand for (A)/ air travel from March onwards due (B)/ to the second wave of COVID-19, there is (C)/ now a steady rise in the number of daily passengers. (D)/ No Error (E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "section": "english",
+      "type": "mcq",
+      "text": "Several ministry have(A)/ been clubbed (B)/ together, sources say,(C)/ to increase synergy.(D)/ No error(E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "section": "english",
+      "type": "mcq",
+      "text": "While the expansion of (A)/the road and railway (B)/network there has been (C)/subject to many debate(D)/ No error(E)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "section": "quant",
+      "type": "mcq",
+      "text": "In the given question, two equations numbered I and II are given. I. x2 – 13x + 40 = 0 II. y2 – 13y + 42 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x < y"
+        },
+        {
+          "id": "c",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relation between them cannot be established"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. x2 + 8x + 12 = 0 II. y2 + 14y + 24 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "c",
+          "text": "x < y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relationship between x and y cannot be established"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. x2 – 9x + 18 = 0 II. y2 – 15y + 56 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "c",
+          "text": "x < y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relationship between x and y cannot be established"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. x2 - 35x + 124 = 0 [as per PDF: I. x - 35x + 124 = 0] II. y2 + 21y - 130 = 0 [as per PDF: y + 21y - 130 = 0]",
+      "options": [
+        {
+          "id": "a",
+          "text": "x > y"
+        },
+        {
+          "id": "b",
+          "text": "x < y"
+        },
+        {
+          "id": "c",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "e",
+          "text": "x = y or relation between x and y can't be established."
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "section": "quant",
+      "type": "mcq",
+      "text": "I. 4x2 + 18x + 20 = 0 II. 3y2 + 24y - 60 = 0",
+      "options": [
+        {
+          "id": "a",
+          "text": "x < y"
+        },
+        {
+          "id": "b",
+          "text": "x > y"
+        },
+        {
+          "id": "c",
+          "text": "x ≤ y"
+        },
+        {
+          "id": "d",
+          "text": "x ≥ y"
+        },
+        {
+          "id": "e",
+          "text": "No relation in x and y or x = y"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The Honda company reduces the number of its worker in the ratio 7:4 and increases their wages in the ratio 3:5 then find the ratio of the company's expenditure on total wages previously and now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "21 : 20"
+        },
+        {
+          "id": "b",
+          "text": "20 : 21"
+        },
+        {
+          "id": "c",
+          "text": "4 : 5"
+        },
+        {
+          "id": "d",
+          "text": "5 : 4"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "section": "quant",
+      "type": "mcq",
+      "text": "In a bank the average salary of all the Staff is Rs. 600. The average salary of all 12 officers is Rs. 4000 and the average salary of the rest Staff is Rs. 560. Find the number of rest of the staff in the bank.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1020"
+        },
+        {
+          "id": "b",
+          "text": "1000"
+        },
+        {
+          "id": "c",
+          "text": "1100"
+        },
+        {
+          "id": "d",
+          "text": "1120"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Saurabh bought 45 kg tea at Rs. 140 per kg and 40 kg at Rs. 155 per kg. He mixed the two. Now at what price (app) per kg he should sell so that he may get 20% on this loss? [As per PDF, likely 20% profit]",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 118"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 120"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 115"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 123"
+        },
+        {
+          "id": "e",
+          "text": "Rs.113"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A and B can do a piece of work 18 days and 24 days respectively. Both started the work together but A left after 6 days and C joined B. They together finished the remaining work in 6 days. In how many days C alone can finish that work?",
+      "options": [
+        {
+          "id": "a",
+          "text": "36"
+        },
+        {
+          "id": "b",
+          "text": "30"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "40"
+        },
+        {
+          "id": "e",
+          "text": "46"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A boat goes from point A to B upstream and returns to A through the same path. If the time of journey from A to B is twice that of the time taken to travel from B to A, then the ratio of the speed of the boat in still water to the speed of the current is",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 ∶ 1"
+        },
+        {
+          "id": "b",
+          "text": "4 ∶ 3"
+        },
+        {
+          "id": "c",
+          "text": "3 ∶ 2"
+        },
+        {
+          "id": "d",
+          "text": "5 ∶ 4"
+        },
+        {
+          "id": "e",
+          "text": "3 ∶ 1"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Pie chart shows percentage distribution of total number of Employees in five different Company A,B,C,D,E. Total 3000. Ratio Male to Female 3:2 each. If another Company F has 10% more employees than company C and ratio male to female remain same. Then find number of female employees in company F?",
+      "options": [
+        {
+          "id": "a",
+          "text": "260"
+        },
+        {
+          "id": "b",
+          "text": "264"
+        },
+        {
+          "id": "c",
+          "text": "266"
+        },
+        {
+          "id": "d",
+          "text": "268"
+        },
+        {
+          "id": "e",
+          "text": "270"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_pie_company_41_45"
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Find the Central Angle (in degrees) of total number of Employees in company D.",
+      "options": [
+        {
+          "id": "a",
+          "text": "62.8"
+        },
+        {
+          "id": "b",
+          "text": "68.6"
+        },
+        {
+          "id": "c",
+          "text": "54.6"
+        },
+        {
+          "id": "d",
+          "text": "64.8"
+        },
+        {
+          "id": "e",
+          "text": "58.2"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_pie_company_41_45"
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What is the average number of Males Employees in company B and E?",
+      "options": [
+        {
+          "id": "a",
+          "text": "340"
+        },
+        {
+          "id": "b",
+          "text": "342"
+        },
+        {
+          "id": "c",
+          "text": "344"
+        },
+        {
+          "id": "d",
+          "text": "346"
+        },
+        {
+          "id": "e",
+          "text": "348"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_pie_company_41_45"
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The number of Female employees in Company C is what percentage more than the number of Female Employees in Company D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "9.09%"
+        },
+        {
+          "id": "b",
+          "text": "11.11%"
+        },
+        {
+          "id": "c",
+          "text": "18.18%"
+        },
+        {
+          "id": "d",
+          "text": "22.22%"
+        },
+        {
+          "id": "e",
+          "text": "33.33%"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_pie_company_41_45"
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What is the difference between the total number of Male and Female Employees in Company D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "104"
+        },
+        {
+          "id": "b",
+          "text": "106"
+        },
+        {
+          "id": "c",
+          "text": "108"
+        },
+        {
+          "id": "d",
+          "text": "110"
+        },
+        {
+          "id": "e",
+          "text": "112"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_pie_company_41_45"
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A family decided to spend 13% of their monthly income on traveling, 27% on household expenses, and 35% on family’s medical expenses, and 5% on insurance. The family has the remaining amount of Rs. 13200 as cash. What is the monthly income of the family?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs 66,000"
+        },
+        {
+          "id": "b",
+          "text": "Rs 50,000"
+        },
+        {
+          "id": "c",
+          "text": "Rs 45,000"
+        },
+        {
+          "id": "d",
+          "text": "Rs 35,000"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Kamal and Raju started a partnership for total of 3.5 years in such a way that initially Kamal invested Rs. 7500 for 24 months after that Kamal withdraws his amount and Raju invests certain capital for the remaining time. The profit Raju received after 3.5 years is Rs. 1400 out of total profit of Rs. 3000. What was the amount Raju invested.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 9000"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 7500"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 8400"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 8750"
+        },
+        {
+          "id": "e",
+          "text": "Rs. 8000"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A man invests a certain sum of money at the rate of interest 10% for 2 years. After 2 years, he earns Rs. 400 as a simple interest. If he invests the same sum of money at the same rate for 2 years on compound interest, then find how much percentage of the compound interest is greater than the simple interest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7.5%"
+        },
+        {
+          "id": "b",
+          "text": "10%"
+        },
+        {
+          "id": "c",
+          "text": "5%"
+        },
+        {
+          "id": "d",
+          "text": "20%"
+        },
+        {
+          "id": "e",
+          "text": "15%"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A man purchased 150 t-shirts, each costing the same, but 40% of them are lost in transit which cannot be recovered. He sold 50% of the remaining at 20% profit each and remaining at 5% loss each. If the total selling price of t-shirts is Rs. 7740, then what was the cost price of each t-shirts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 100"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 60"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 90"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 80"
+        },
+        {
+          "id": "e",
+          "text": "Rs. 85"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "section": "quant",
+      "type": "mcq",
+      "text": "A train running at a speed of x km/hr crosses another (running in opposite direction) train in 21 seconds which is 3/4th of its length and running at speed (x – 6) km/hr. Second train crosses a railway platform whose length is 300 meters, in 42 sec. Then, what is the value of x?",
+      "options": [
+        {
+          "id": "a",
+          "text": "42"
+        },
+        {
+          "id": "b",
+          "text": "45"
+        },
+        {
+          "id": "c",
+          "text": "70"
+        },
+        {
+          "id": "d",
+          "text": "25"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q51",
+      "number": 51,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Bar graph shows number of students of different branches. Find the average number of boys in a college including five branches.",
+      "options": [
+        {
+          "id": "a",
+          "text": "400"
+        },
+        {
+          "id": "b",
+          "text": "390"
+        },
+        {
+          "id": "c",
+          "text": "300"
+        },
+        {
+          "id": "d",
+          "text": "370"
+        },
+        {
+          "id": "e",
+          "text": "420"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_bar_branches_51_55"
+    },
+    {
+      "id": "q52",
+      "number": 52,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Total number of girls in College for five branches is approximately what percent of total number of students in College?",
+      "options": [
+        {
+          "id": "a",
+          "text": "34.45%"
+        },
+        {
+          "id": "b",
+          "text": "45%"
+        },
+        {
+          "id": "c",
+          "text": "60.6%"
+        },
+        {
+          "id": "d",
+          "text": "43.48%"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_bar_branches_51_55"
+    },
+    {
+      "id": "q53",
+      "number": 53,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Ratio of total number of students in computer branch to total number of Students of Mechanical and Electronics is -",
+      "options": [
+        {
+          "id": "a",
+          "text": "22 : 15"
+        },
+        {
+          "id": "b",
+          "text": "21 : 16"
+        },
+        {
+          "id": "c",
+          "text": "16 : 23"
+        },
+        {
+          "id": "d",
+          "text": "23 : 15"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_bar_branches_51_55"
+    },
+    {
+      "id": "q54",
+      "number": 54,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Total number of boys in Mechanical branch is approximately what percent of total number of boy’s students in all five branches?",
+      "options": [
+        {
+          "id": "a",
+          "text": "21.7%"
+        },
+        {
+          "id": "b",
+          "text": "25.64%"
+        },
+        {
+          "id": "c",
+          "text": "22.54%"
+        },
+        {
+          "id": "d",
+          "text": "30%"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_bar_branches_51_55"
+    },
+    {
+      "id": "q55",
+      "number": 55,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Which branch has minimum ratio of boys’ and girls’ students?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electrical"
+        },
+        {
+          "id": "b",
+          "text": "Computer"
+        },
+        {
+          "id": "c",
+          "text": "Civil"
+        },
+        {
+          "id": "d",
+          "text": "Electronics"
+        },
+        {
+          "id": "e",
+          "text": "Both 2 and 3"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_bar_branches_51_55"
+    },
+    {
+      "id": "q56",
+      "number": 56,
+      "section": "quant",
+      "type": "mcq",
+      "text": "Tap P and Q can fill a tank in 7 and 10 hours, respectively. Pipe R can empty the same tank in 15 hours. If all the three pipes are opened simultaneously, then in how much time the tank will be filled completely?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 hours 37/25"
+        },
+        {
+          "id": "b",
+          "text": "5 hours 25/37"
+        },
+        {
+          "id": "c",
+          "text": "9 hours 25/37"
+        },
+        {
+          "id": "d",
+          "text": "11 hours 37/25"
+        },
+        {
+          "id": "e",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q57",
+      "number": 57,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The present age of Ram and Rohit are in the ratio of 7:8 respectively. After 6 years, the respective ratio between the age of Ram and Rohit will be 9:10. What is the age of Rohit after 10 years?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30 years"
+        },
+        {
+          "id": "b",
+          "text": "34 years"
+        },
+        {
+          "id": "c",
+          "text": "40 years"
+        },
+        {
+          "id": "d",
+          "text": "42 years"
+        },
+        {
+          "id": "e",
+          "text": "27 years"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q58",
+      "number": 58,
+      "section": "quant",
+      "type": "mcq",
+      "text": "For traveling a distance of 48 km, a girl noticed that after walking for 1 hour and 40 minutes, the distance covered by her was 2/7 of the remaining distance. What was her speed in meters per second?",
+      "options": [
+        {
+          "id": "a",
+          "text": "16/9 m/s"
+        },
+        {
+          "id": "b",
+          "text": "14/5 m/s"
+        },
+        {
+          "id": "c",
+          "text": "3 m/s"
+        },
+        {
+          "id": "d",
+          "text": "4 m/s"
+        },
+        {
+          "id": "e",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q59",
+      "number": 59,
+      "section": "quant",
+      "type": "mcq",
+      "text": "The ratio between the length of the rectangular field and the side of the square field is 6:1 and the breadth of the rectangular field is 1/3rd of the side of the square field. If the perimeter of the square is 120 m, then, find the cost of fencing the rectangular field at the rate of Rs. 20 per m?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rs. 7,600"
+        },
+        {
+          "id": "b",
+          "text": "Rs. 7,200"
+        },
+        {
+          "id": "c",
+          "text": "Rs. 7,500"
+        },
+        {
+          "id": "d",
+          "text": "Rs. 8,200"
+        },
+        {
+          "id": "e",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "section": "quant",
+      "type": "mcq",
+      "text": "There are two vessels A and B of milk and water. The vessel A contains ratio of milk to water as 3:5 and vessel B contains ratio of milk to water as 2:3. If 32 litres of mixture from vessel A and x litre of mixture from vessel B is taken out to form the new mixture. Ratio of milk to water in the new mixture is 5:8. Find the value of x.",
+      "options": [
+        {
+          "id": "a",
+          "text": "15 litres"
+        },
+        {
+          "id": "b",
+          "text": "20 litres"
+        },
+        {
+          "id": "c",
+          "text": "22 litres"
+        },
+        {
+          "id": "d",
+          "text": "25 litres"
+        },
+        {
+          "id": "e",
+          "text": "28 litres"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q61",
+      "number": 61,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What approximate will come in place of question mark ‘?’ 9.78% of 79.94 + ?% of 9.67 = 10.94 × 2.99 + √100 × 2.98",
+      "options": [
+        {
+          "id": "a",
+          "text": "600"
+        },
+        {
+          "id": "b",
+          "text": "550"
+        },
+        {
+          "id": "c",
+          "text": "580"
+        },
+        {
+          "id": "d",
+          "text": "610"
+        },
+        {
+          "id": "e",
+          "text": "None of these."
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q62",
+      "number": 62,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What approximate value should come in place of question mark (?) 49.97% of 1900.1 + (7.99)3 × 4.97 + ? = (5.03)3 × 27.98",
+      "options": [
+        {
+          "id": "a",
+          "text": "-6"
+        },
+        {
+          "id": "b",
+          "text": "6"
+        },
+        {
+          "id": "c",
+          "text": "10"
+        },
+        {
+          "id": "d",
+          "text": "-10"
+        },
+        {
+          "id": "e",
+          "text": "20"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q63",
+      "number": 63,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What approximate value will come in place of question mark (?) 15.67 × 62.5% - 12.5 × 7.99% + 24.2 ÷ 6 = 50.01 ÷ 5.12 + ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30"
+        },
+        {
+          "id": "b",
+          "text": "50"
+        },
+        {
+          "id": "c",
+          "text": "15"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        },
+        {
+          "id": "e",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": "q64",
+      "number": 64,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What approximate will come in place of question mark ‘?’ 37.98% of 549.99 + √(49.02) ÷ ? = 7.99 × (2.97)3",
+      "options": [
+        {
+          "id": "a",
+          "text": "0"
+        },
+        {
+          "id": "b",
+          "text": "1"
+        },
+        {
+          "id": "c",
+          "text": "2"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        },
+        {
+          "id": "e",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q65",
+      "number": 65,
+      "section": "quant",
+      "type": "mcq",
+      "text": "What approximate value should come in place of question mark? (22.03% of 150.01) + (361.33)1/2 + (63.92÷2.012) + (11.02% of 499.98) = ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "129"
+        },
+        {
+          "id": "b",
+          "text": "119"
+        },
+        {
+          "id": "c",
+          "text": "139"
+        },
+        {
+          "id": "d",
+          "text": "149"
+        },
+        {
+          "id": "e",
+          "text": "159"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q66",
+      "number": 66,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "6 people – A, B, C, P, Q, and R, work in same school had performance reviews in months March, July and December on either 14th or 26th. Each teaches different subject. B had review on 26th July. Biology teacher had review after Maths teacher in same month. History teacher had review before A, who did not teach Chemistry. 4 people had reviews between P and C, who did not teach Physics. C was not English teacher but had review immediately after Q. R did not teach Biology. 2 people had reviews between Physics teacher and B. English teacher had review in December. Who is the Maths teacher?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "P"
+        },
+        {
+          "id": "d",
+          "text": "Q"
+        },
+        {
+          "id": "e",
+          "text": "A"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_performance_66_70"
+    },
+    {
+      "id": "q67",
+      "number": 67,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many people had their review between the History and Chemistry teacher? (Performance review puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 person"
+        },
+        {
+          "id": "b",
+          "text": "4 people"
+        },
+        {
+          "id": "c",
+          "text": "2 people"
+        },
+        {
+          "id": "d",
+          "text": "5 people"
+        },
+        {
+          "id": "e",
+          "text": "3 people"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_performance_66_70"
+    },
+    {
+      "id": "q68",
+      "number": 68,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who was the Chemistry teacher? (Performance puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "P"
+        },
+        {
+          "id": "c",
+          "text": "B"
+        },
+        {
+          "id": "d",
+          "text": "Q"
+        },
+        {
+          "id": "e",
+          "text": "C"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_performance_66_70"
+    },
+    {
+      "id": "q69",
+      "number": 69,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "When did the English teacher have his review? (Performance puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "December 26"
+        },
+        {
+          "id": "b",
+          "text": "July 14"
+        },
+        {
+          "id": "c",
+          "text": "March 26"
+        },
+        {
+          "id": "d",
+          "text": "July 26"
+        },
+        {
+          "id": "e",
+          "text": "December 14"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_performance_66_70"
+    },
+    {
+      "id": "q70",
+      "number": 70,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who had the first performance review? (Performance puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Biology teacher"
+        },
+        {
+          "id": "b",
+          "text": "R"
+        },
+        {
+          "id": "c",
+          "text": "The History teacher"
+        },
+        {
+          "id": "d",
+          "text": "Q"
+        },
+        {
+          "id": "e",
+          "text": "The Physics teacher"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_performance_66_70"
+    },
+    {
+      "id": "q71",
+      "number": 71,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Starting from point P, Yuvraj walked 20m South to O, left 30m to Q, left 20m to R, left 40m to S, right 30m to T, left 20m to U, left 70m to V, left 20m to W, left 10m to X, right 10m to Y. What is total distance travelled Yuvraj from P to V?",
+      "options": [
+        {
+          "id": "a",
+          "text": "110 meters"
+        },
+        {
+          "id": "b",
+          "text": "135 meters"
+        },
+        {
+          "id": "c",
+          "text": "130 meters"
+        },
+        {
+          "id": "d",
+          "text": "120 meters"
+        },
+        {
+          "id": "e",
+          "text": "90 meters"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_direction_71_73"
+    },
+    {
+      "id": "q72",
+      "number": 72,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Point S is on which direction with respect to O? (Yuvraj puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "North - West"
+        },
+        {
+          "id": "b",
+          "text": "North"
+        },
+        {
+          "id": "c",
+          "text": "North - South"
+        },
+        {
+          "id": "d",
+          "text": "South"
+        },
+        {
+          "id": "e",
+          "text": "East"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_direction_71_73"
+    },
+    {
+      "id": "q73",
+      "number": 73,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "In which direction point Q with respect to the Y? (Yuvraj puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "North"
+        },
+        {
+          "id": "b",
+          "text": "South"
+        },
+        {
+          "id": "c",
+          "text": "North-East"
+        },
+        {
+          "id": "d",
+          "text": "North-West"
+        },
+        {
+          "id": "e",
+          "text": "South-East"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_direction_71_73"
+    },
+    {
+      "id": "q74",
+      "number": 74,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "A certain number of people sit in a row facing North. U sits 3rd to left of S. T sits 3rd from one end, 7 places away from R. P sits 2nd to right of R. A sits at right end. One person sits between X and B, and has 4 people sit between B and Z. Q sits immediately between X and T. Nobody sits to left of R. Who sit between P and X?",
+      "options": [
+        {
+          "id": "a",
+          "text": "U and A"
+        },
+        {
+          "id": "b",
+          "text": "R and S"
+        },
+        {
+          "id": "c",
+          "text": "B and S"
+        },
+        {
+          "id": "d",
+          "text": "U and B"
+        },
+        {
+          "id": "e",
+          "text": "S and A"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_row_74_76"
+    },
+    {
+      "id": "q75",
+      "number": 75,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many people sit in the row? (Same row puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "9 people"
+        },
+        {
+          "id": "b",
+          "text": "10 people"
+        },
+        {
+          "id": "c",
+          "text": "11 people"
+        },
+        {
+          "id": "d",
+          "text": "12 people"
+        },
+        {
+          "id": "e",
+          "text": "13 people"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_row_74_76"
+    },
+    {
+      "id": "q76",
+      "number": 76,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who sits 2nd to left of the one who sits 5th to right of the one sitting at the left end of the row? (Row puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "P"
+        },
+        {
+          "id": "c",
+          "text": "Q"
+        },
+        {
+          "id": "d",
+          "text": "B"
+        },
+        {
+          "id": "e",
+          "text": "Z"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_row_74_76"
+    },
+    {
+      "id": "q77",
+      "number": 77,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many such pairs of letters are there in the word ‘CUSTOMER’, each of which has as many letters between them in the word (both forward and backward direction) as they have between them in the English Alphabet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Three"
+        },
+        {
+          "id": "c",
+          "text": "Two"
+        },
+        {
+          "id": "d",
+          "text": "Zero"
+        },
+        {
+          "id": "e",
+          "text": "More than three"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q78",
+      "number": 78,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Nine people viz; G,H,I,J,K,L,M,N,O are working in a company in three different departments viz; Marketing, Finance and Admin. A minimum of 2 and maximum of 4 people in a department. I is not working in Admin. G is working in Finance. M is not working in Marketing and not with G also. N is not working in Marketing. O is working with G. H and K working together but not in Marketing. J neither works in Finance nor with M. N is not working with K. L is working with only one person. In which department maximum number of people working?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Department of H"
+        },
+        {
+          "id": "b",
+          "text": "Finance"
+        },
+        {
+          "id": "c",
+          "text": "Admin"
+        },
+        {
+          "id": "d",
+          "text": "Marketing"
+        },
+        {
+          "id": "e",
+          "text": "Both option II and III"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_dept_78_82"
+    },
+    {
+      "id": "q79",
+      "number": 79,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "H works in which department? (Department puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Admin"
+        },
+        {
+          "id": "b",
+          "text": "Finance"
+        },
+        {
+          "id": "c",
+          "text": "Marketing"
+        },
+        {
+          "id": "d",
+          "text": "Can't determine"
+        },
+        {
+          "id": "e",
+          "text": "Works with I"
+        }
+      ],
+      "correctAnswer": "a",
+      "groupId": "grp_dept_78_82"
+    },
+    {
+      "id": "q80",
+      "number": 80,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who is the following works with L? (Department puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "G"
+        },
+        {
+          "id": "b",
+          "text": "H"
+        },
+        {
+          "id": "c",
+          "text": "N"
+        },
+        {
+          "id": "d",
+          "text": "J"
+        },
+        {
+          "id": "e",
+          "text": "M"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_dept_78_82"
+    },
+    {
+      "id": "q81",
+      "number": 81,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Which department has least number of people working? (Department puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Department of H"
+        },
+        {
+          "id": "b",
+          "text": "Department of M"
+        },
+        {
+          "id": "c",
+          "text": "Department of J"
+        },
+        {
+          "id": "d",
+          "text": "Department of I"
+        },
+        {
+          "id": "e",
+          "text": "Department of G"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_dept_78_82"
+    },
+    {
+      "id": "q82",
+      "number": 82,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who works in Finance? (Department puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "I"
+        },
+        {
+          "id": "b",
+          "text": "G"
+        },
+        {
+          "id": "c",
+          "text": "L"
+        },
+        {
+          "id": "d",
+          "text": "Both option I and III"
+        },
+        {
+          "id": "e",
+          "text": "Both option I and II"
+        }
+      ],
+      "correctAnswer": "e",
+      "groupId": "grp_dept_78_82"
+    },
+    {
+      "id": "q83",
+      "number": 83,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "A series is given with one term missing. TRP, QOM, NLJ, KIG, ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "HDF"
+        },
+        {
+          "id": "b",
+          "text": "HFC"
+        },
+        {
+          "id": "c",
+          "text": "HFD"
+        },
+        {
+          "id": "d",
+          "text": "HJL"
+        },
+        {
+          "id": "e",
+          "text": "None of above"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q84",
+      "number": 84,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Some book are shelf. Each shelf is board. No board is table. Conclusions: I. No shelf is table. II. Some board are book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only conclusion I follows"
+        },
+        {
+          "id": "b",
+          "text": "Only conclusion II follows"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II follow"
+        },
+        {
+          "id": "d",
+          "text": "Neither I nor II follows"
+        },
+        {
+          "id": "e",
+          "text": "Either I or II follows"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q85",
+      "number": 85,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Some Buses are Shoes. No Shoes are Oil. All Oil are Keywords. Conclusions: I. Some Buses are not Oil. II. Some keywords are Shoes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only conclusion I follow"
+        },
+        {
+          "id": "b",
+          "text": "Only conclusion II follow"
+        },
+        {
+          "id": "c",
+          "text": "Either conclusion I or II follows"
+        },
+        {
+          "id": "d",
+          "text": "Neither conclusion I nor II follows"
+        },
+        {
+          "id": "e",
+          "text": "Both conclusion I and II follow"
+        }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": "q86",
+      "number": 86,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Only a few Boys are Girls. Some Girls are Women. All Women are Men. Conclusions: I. All Boys being Girls is a possibility. II. Some Men are Girls.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only conclusion I follow"
+        },
+        {
+          "id": "b",
+          "text": "Only conclusion II follow"
+        },
+        {
+          "id": "c",
+          "text": "Either conclusion I or II follows"
+        },
+        {
+          "id": "d",
+          "text": "Neither conclusion I nor II follows"
+        },
+        {
+          "id": "e",
+          "text": "Both conclusion I and II follow"
+        }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": "q87",
+      "number": 87,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Fourteen people are sitting in two parallel rows. Row-1 South of row-2. Row1 P,Q,R,S,T,U,V facing North, Row2 A,B,C,D,E,F,G facing South. G is second from one end. Only one people between P and one who is facing G. Only two people between G and C. A immediate left of C. One who is facing A immediate left of R. One person between T and U. As many people between T and R as between T and U. S and D facing each other and sitting on an end. Only one person between C and E, who is not facing U. B immediate right of F. Both F and G not facing V. Who is facing V?",
+      "options": [
+        {
+          "id": "a",
+          "text": "F"
+        },
+        {
+          "id": "b",
+          "text": "E"
+        },
+        {
+          "id": "c",
+          "text": "D"
+        },
+        {
+          "id": "d",
+          "text": "A"
+        },
+        {
+          "id": "e",
+          "text": "B"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_parallel_87_91"
+    },
+    {
+      "id": "q88",
+      "number": 88,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many people are sitting between C and D? (Parallel rows)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Four"
+        },
+        {
+          "id": "b",
+          "text": "Three"
+        },
+        {
+          "id": "c",
+          "text": "Two"
+        },
+        {
+          "id": "d",
+          "text": "One"
+        },
+        {
+          "id": "e",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_parallel_87_91"
+    },
+    {
+      "id": "q89",
+      "number": 89,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who is sitting third to the right of E? (Parallel rows)",
+      "options": [
+        {
+          "id": "a",
+          "text": "G"
+        },
+        {
+          "id": "b",
+          "text": "C"
+        },
+        {
+          "id": "c",
+          "text": "F"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        },
+        {
+          "id": "e",
+          "text": "A"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_parallel_87_91"
+    },
+    {
+      "id": "q90",
+      "number": 90,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Four of five options are alike in a certain way find odd one out? (Parallel rows) Options D,S,G,E,R",
+      "options": [
+        {
+          "id": "a",
+          "text": "D"
+        },
+        {
+          "id": "b",
+          "text": "S"
+        },
+        {
+          "id": "c",
+          "text": "G"
+        },
+        {
+          "id": "d",
+          "text": "E"
+        },
+        {
+          "id": "e",
+          "text": "R"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_parallel_87_91"
+    },
+    {
+      "id": "q91",
+      "number": 91,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who is sitting second to the left of the one who is facing A? (Parallel rows)",
+      "options": [
+        {
+          "id": "a",
+          "text": "T"
+        },
+        {
+          "id": "b",
+          "text": "S"
+        },
+        {
+          "id": "c",
+          "text": "P"
+        },
+        {
+          "id": "d",
+          "text": "Q"
+        },
+        {
+          "id": "e",
+          "text": "R"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_parallel_87_91"
+    },
+    {
+      "id": "q92",
+      "number": 92,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "A series is given with one term missing. LP, MR, ? , OV, PX",
+      "options": [
+        {
+          "id": "a",
+          "text": "MT"
+        },
+        {
+          "id": "b",
+          "text": "MU"
+        },
+        {
+          "id": "c",
+          "text": "NT"
+        },
+        {
+          "id": "d",
+          "text": "NU"
+        },
+        {
+          "id": "e",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q93",
+      "number": 93,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Statements: P > Q > R ; R > S ≥ T Conclusions: I. R > T II. P > S",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only I is true"
+        },
+        {
+          "id": "b",
+          "text": "Only II is true"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II are true"
+        },
+        {
+          "id": "d",
+          "text": "Either I or II is true"
+        },
+        {
+          "id": "e",
+          "text": "Neither I nor II is true"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q94",
+      "number": 94,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Statements: M > E ≤ W; Q < E; Q ≥ P > S Conclusions: I. M > S II. E ≥ P",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only II is True"
+        },
+        {
+          "id": "b",
+          "text": "Neither I nor II is true"
+        },
+        {
+          "id": "c",
+          "text": "Both I and II are True"
+        },
+        {
+          "id": "d",
+          "text": "Either I or II is True"
+        },
+        {
+          "id": "e",
+          "text": "Only I is True"
+        }
+      ],
+      "correctAnswer": "e"
+    },
+    {
+      "id": "q95",
+      "number": 95,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "If it is possible to make only one four-letter meaningful English word with the 4th, 8th, 10th and 11th letters of word GALACTOMETER, which of following will be second letter from left of that word? If no such word can be made give ‘X’ and if more than one such word give ‘Y’.",
+      "options": [
+        {
+          "id": "a",
+          "text": "E"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "Y"
+        },
+        {
+          "id": "d",
+          "text": "M"
+        },
+        {
+          "id": "e",
+          "text": "X"
+        }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": "q96",
+      "number": 96,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Seven people viz; K,L,M,N,O,P,Q living in seven story building topmost 7 bottommost 1. Colours Blue,White,Green,Red,Black,Pink,Yellow. Only two people below Blue. Only one between Green and Blue. Q immediately above Blue. O two floors above Q. Only one between O and Red. M likes Black and lives on Topmost. Pink immediately above Green. Only one between Q and N. White immediately above Yellow. Only one between K and L, who lives below K but not bottommost. P doesn't like Green. Who likes Yellow colour?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q"
+        },
+        {
+          "id": "b",
+          "text": "L"
+        },
+        {
+          "id": "c",
+          "text": "P"
+        },
+        {
+          "id": "d",
+          "text": "O"
+        },
+        {
+          "id": "e",
+          "text": "K"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_building_96_100"
+    },
+    {
+      "id": "q97",
+      "number": 97,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "How many people lives between N and K? (Building puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Three"
+        },
+        {
+          "id": "b",
+          "text": "Two"
+        },
+        {
+          "id": "c",
+          "text": "Four"
+        },
+        {
+          "id": "d",
+          "text": "One"
+        },
+        {
+          "id": "e",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_building_96_100"
+    },
+    {
+      "id": "q98",
+      "number": 98,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Four of five options are same in a certain way find odd one out? Building puzzle Options M,P,L,Q,K",
+      "options": [
+        {
+          "id": "a",
+          "text": "M"
+        },
+        {
+          "id": "b",
+          "text": "P"
+        },
+        {
+          "id": "c",
+          "text": "L"
+        },
+        {
+          "id": "d",
+          "text": "Q"
+        },
+        {
+          "id": "e",
+          "text": "K"
+        }
+      ],
+      "correctAnswer": "d",
+      "groupId": "grp_building_96_100"
+    },
+    {
+      "id": "q99",
+      "number": 99,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who lives immediately above the one who lives on bottommost floor? (Building puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "L"
+        },
+        {
+          "id": "b",
+          "text": "Q"
+        },
+        {
+          "id": "c",
+          "text": "The one who likes White"
+        },
+        {
+          "id": "d",
+          "text": "The one who likes Yellow"
+        },
+        {
+          "id": "e",
+          "text": "O"
+        }
+      ],
+      "correctAnswer": "c",
+      "groupId": "grp_building_96_100"
+    },
+    {
+      "id": "q100",
+      "number": 100,
+      "section": "reasoning",
+      "type": "mcq",
+      "text": "Who lives between the one who likes Red and N? (Building puzzle)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Q"
+        },
+        {
+          "id": "b",
+          "text": "L"
+        },
+        {
+          "id": "c",
+          "text": "M"
+        },
+        {
+          "id": "d",
+          "text": "O"
+        },
+        {
+          "id": "e",
+          "text": "K"
+        }
+      ],
+      "correctAnswer": "b",
+      "groupId": "grp_building_96_100"
+    }
+  ],
+  "validation": {
+    "totalQuestions": 100,
+    "expectedCounts": {
+      "english": 30,
+      "quant": 35,
+      "reasoning": 35
+    },
+    "allQuestionsHaveAnswers": true,
+    "allQuestionsHaveFourOrFiveOptions": true,
+    "groupsLinked": true,
+    "schemaCompliant": true,
+    "incompleteQuestions": [
+      {
+        "id": "q34",
+        "reason": "Equation formatting garbled in PDF extract (x - 35x +124 etc.), interpreted as x2-35x+124; preserved as per original"
+      },
+      {
+        "id": "q41-45",
+        "reason": "Pie chart percentages for companies A-E not legible in text extract; totals and ratio given, group marked incomplete"
+      },
+      {
+        "id": "q51-55",
+        "reason": "Bar graph exact boy/girl numbers for branches not legible in text extract; group marked incomplete"
+      }
+    ]
+  }
+}
